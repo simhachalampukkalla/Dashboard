@@ -1,0 +1,376 @@
+{
+  "allowPreview": true,
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000EoCXWA0&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "createdBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "createdDate": "2018-01-08T11:37:18.000Z",
+  "datasets": [
+    {
+      "name": "${App.EdgeMarts.Wave_Sample_Opportunities1.Alias}"
+    }
+  ],
+  "files": [
+    {
+      "contentType": "image/png",
+      "fileLength": 19179,
+      "fileName": "assetPreviewThumb",
+      "id": "0FJ7F000000GujKWAS",
+      "lastModifiedDate": "2018-02-27T05:25:22.000Z",
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000EoCXWA0/files/0FJ7F000000GujKWAS"
+    }
+  ],
+  "folder": {
+    "id": "${App.Folder.Id}"
+  },
+  "id": "0FK7F000000EoCXWA0",
+  "label": "SAQL1 - Introduction",
+  "lastAccessedDate": "2018-02-27T05:35:55.000Z",
+  "lastModifiedBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "lastModifiedDate": "2018-02-27T05:25:19.000Z",
+  "mobileDisabled": false,
+  "name": "SOQL_Introduction",
+  "namespace": "simha",
+  "permissions": {
+    "manage": true,
+    "modify": true,
+    "view": true
+  },
+  "refreshDate": "2018-01-08T10:38:11.000Z",
+  "state": {
+    "dataSourceLinks": [],
+    "filters": [],
+    "gridLayouts": [
+      {
+        "maxWidth": 1280,
+        "name": "Default",
+        "numColumns": 40,
+        "pages": [
+          {
+            "label": "Untitled",
+            "name": "ce8d7346-5c22-4242-be0b-0ea0cb6f737d",
+            "widgets": [
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "text_1",
+                "row": 3,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "text_2",
+                "row": 7,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#5C7A99",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "container_1",
+                "row": 0,
+                "rowspan": 11,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(8, 30, 41)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 6,
+                "column": 0,
+                "name": "container_6",
+                "row": 11,
+                "rowspan": 76,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 6,
+                "column": 0,
+                "name": "text_7",
+                "row": 19,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 32,
+                "column": 7,
+                "name": "container_2",
+                "row": 14,
+                "rowspan": 51,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(225, 243, 251)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 8,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 30,
+                "column": 7,
+                "name": "text_4",
+                "row": 16,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 32,
+                "column": 7,
+                "name": "text_5",
+                "row": 19,
+                "rowspan": 25,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              }
+            ]
+          }
+        ],
+        "rowHeight": "fine",
+        "selectors": [],
+        "style": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "backgroundColor": "#FFFFFF",
+          "cellSpacingX": 0,
+          "cellSpacingY": 0,
+          "fit": "original",
+          "gutterColor": "rgb(8, 30, 41)"
+        },
+        "version": 1
+      }
+    ],
+    "layouts": [],
+    "steps": {
+      "static_1": {
+        "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
+        "groups": [],
+        "isGlobal": false,
+        "numbers": [],
+        "selectMode": "singlerequired",
+        "start": "{&quot;display&quot;:[&quot;Countries&quot;]}",
+        "strings": [],
+        "type": "staticflex",
+        "useGlobal": false,
+        "values": [
+          "{\"display\":\"Countries\",\"grouping\":\"Billing_Country\",\"mapType\":\"World Countries\"}",
+          "{\"display\":\"Europe\",\"grouping\":\"Billing_Country\",\"mapType\":\"Europe\"}",
+          "{\"display\":\"Americas\",\"grouping\":\"Billing_Country\",\"mapType\":\"Americas\"}",
+          "{\"display\":\"Asia\",\"grouping\":\"Billing_Country\",\"mapType\":\"Asia\"}",
+          "{\"display\":\"Africa\",\"grouping\":\"Billing_Country\",\"mapType\":\"Africa\"}",
+          "{\"display\":\"State\",\"grouping\":\"Billing_State_Province\",\"mapType\":\"US States\"}"
+        ]
+      },
+      "Binding_Value_1": {
+        "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
+        "groups": [],
+        "isGlobal": false,
+        "label": "Binding Value",
+        "numbers": [],
+        "selectMode": "single",
+        "strings": [],
+        "type": "staticflex",
+        "useGlobal": false,
+        "values": [
+          "{\"display\":\"1\",\"value\":\"{{coalesce(cell(static_1.selection, 0, \\\"mapType\\\"), cell(static_1.result, 0, \\\"mapType\\\")).asString()}}\"}"
+        ]
+      },
+      "Billing_Country_1": {
+        "broadcastFacet": true,
+        "datasets": [
+          {
+            "name": "${App.EdgeMarts.Wave_Sample_Opportunities1.Alias}"
+          }
+        ],
+        "isGlobal": false,
+        "query": {
+          "query": "{\"measures\":[[\"sum\",\"Amount\"]],\"groups\":[\"{{coalesce(cell(static_1.selection, 0, \\\"grouping\\\"), cell(static_1.result, 0, \\\"grouping\\\")).asString()}}\"]}",
+          "version": -1
+        },
+        "receiveFacet": true,
+        "selectMode": "single",
+        "type": "aggregateflex",
+        "useGlobal": true,
+        "visualizationParameters": {
+          "parameters": {
+            "bins": {
+              "breakpoints": {
+                "high": 100,
+                "low": 0
+              },
+              "bands": {
+                "high": {
+                  "color": "#008000",
+                  "label": ""
+                },
+                "low": {
+                  "color": "#B22222",
+                  "label": ""
+                },
+                "medium": {
+                  "color": "#ffa500",
+                  "label": ""
+                }
+              }
+            },
+            "legend": {
+              "showHeader": true,
+              "show": true,
+              "customSize": "auto",
+              "position": "right-top",
+              "inside": false
+            },
+            "highColor": "#1674D9",
+            "lowColor": "#C5DBF7",
+            "visualizationType": "choropleth",
+            "theme": "wave",
+            "title": {
+              "label": "",
+              "align": "center",
+              "subtitleLabel": ""
+            },
+            "binValues": false,
+            "trellis": {
+              "flipLabels": false,
+              "showGridLines": true,
+              "enable": false,
+              "type": "x",
+              "chartsPerLine": 4
+            },
+            "map": "{{coalesce(cell(static_1.selection, 0, &quot;mapType&quot;), cell(static_1.result, 0, &quot;mapType&quot;)).asString()}}"
+          },
+          "type": "chart"
+        }
+      }
+    },
+    "widgetStyle": {
+      "backgroundColor": "rgba(2, 34, 66, 0)",
+      "borderColor": "#E6ECF2",
+      "borderEdges": [],
+      "borderRadius": 0,
+      "borderWidth": 1
+    },
+    "widgets": {
+      "container_1": {
+        "parameters": {
+          "alignmentX": "right",
+          "alignmentY": "bottom",
+          "fit": "original",
+          "image": {
+            "name": "bgpng1",
+            "namespace": "simha"
+          }
+        },
+        "type": "container"
+      },
+      "container_2": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "bottom",
+          "fit": "fitwidth",
+          "image": {
+            "name": "download_1jpg",
+            "namespace": "simha"
+          }
+        },
+        "type": "container"
+      },
+      "text_1": {
+        "parameters": {
+          "fontSize": 32,
+          "text": "Build SOQL",
+          "textAlignment": "center",
+          "textColor": "#FFFFFF"
+        },
+        "type": "text"
+      },
+      "container_6": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "fit": "original",
+          "image": {
+            "name": "bgpng1",
+            "namespace": "simha"
+          }
+        },
+        "type": "container"
+      },
+      "text_2": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "Tie a widget's data or design to the selection or results of another",
+          "textAlignment": "center",
+          "textColor": "#FFFFFF"
+        },
+        "type": "text"
+      },
+      "text_5": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "I'll assume for a moment that you are familiar with basic SQL for the purposes of this tutorial. If you are not, there are plenty of great resources on the web to brush up with. As a developer looking to extend Salesforce.com, SOQL is a pretty important and powerful aspect of coding. You can use SOQL to build your own custom query stings. These query strings can be used in the following places:\n\n1)Apex statements\n2)Visualforce getter methods and controllers\n3)In the queryString param passed in the query() call\n4)Finally, you can use the Schema Explorer in the Eclipse Toolkit (this one is pretty slick).\n\nFor those of you familar with SQL, you will find some differences but for the most part SOQL does just about everything you'll need it to do",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_4": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "SOQL  Introduction",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_7": {
+        "parameters": {
+          "fontSize": 12,
+          "text": "DYNAMIC DESIGN",
+          "textAlignment": "left",
+          "textColor": "rgb(107, 109, 112)"
+        },
+        "type": "text"
+      }
+    }
+  },
+  "type": "dashboard",
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000EoCXWA0"
+}
