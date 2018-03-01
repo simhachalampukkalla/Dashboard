@@ -1,29 +1,33 @@
 {
   "allowPreview": true,
-  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000FT67WAG&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "assetSharingUrl": "https://puttupu-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F00000077DGWAY&orgId=00D7F000001bjDF&loginHost=ap5.salesforce.com&urlType=sharing",
   "createdBy": {
-    "id": "0057F000002B9RkQAK",
-    "name": "simhachalam pukkalla",
-    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+    "id": "0057F000000r9JdQAI",
+    "name": "prp pradeep",
+    "profilePhotoUrl": "https://puttupu-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
   },
-  "createdDate": "2018-02-27T09:09:38.000Z",
+  "createdDate": "2018-03-01T05:43:47.000Z",
   "datasets": [],
   "files": [],
   "folder": {
-    "id": "${App.Folder.Id}"
+    "id": "00l7F000000e8XuQAI",
+    "label": "Simha_TestApp",
+    "name": "Simha_TestApp",
+    "namespace": "puttupu",
+    "url": "/services/data/v41.0/wave/folders/00l7F000000e8XuQAI"
   },
-  "id": "0FK7F000000FT67WAG",
+  "id": "0FK7F00000077DGWAY",
   "label": "Adventure Home",
-  "lastAccessedDate": "2018-02-28T07:02:26.000Z",
+  "lastAccessedDate": "2018-03-01T05:43:47.000Z",
   "lastModifiedBy": {
-    "id": "0057F000002B9RkQAK",
-    "name": "simhachalam pukkalla",
-    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+    "id": "0057F000000r9JdQAI",
+    "name": "prp pradeep",
+    "profilePhotoUrl": "https://puttupu-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
   },
-  "lastModifiedDate": "2018-02-27T09:09:38.000Z",
+  "lastModifiedDate": "2018-03-01T05:43:47.000Z",
   "mobileDisabled": false,
-  "name": "Adventure_Home",
-  
+  "name": "Adventure_Home1519882660224",
+  "namespace": "puttupu",
   "permissions": {
     "manage": true,
     "modify": true,
@@ -294,7 +298,8 @@
           "fit": "fitwidth",
           "gutterColor": "rgb(8, 30, 41)",
           "image": {
-            "name": "bgpng12"
+            "name": "bgpng1",
+            "namespace": "puttupu"
           }
         },
         "version": 1
@@ -316,7 +321,8 @@
           "alignmentY": "bottom",
           "fit": "fitheight",
           "image": {
-            "name": "astro_clipboardpng12"
+            "name": "astro_clipboardpng1",
+            "namespace": "puttupu"
           }
         },
         "type": "image"
@@ -336,7 +342,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconchartpng12"
+            "name": "iconchartpng1",
+            "namespace": "puttupu"
           }
         },
         "type": "image"
@@ -347,7 +354,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "arrowrpng12"
+            "name": "arrowrpng1",
+            "namespace": "puttupu"
           }
         },
         "type": "image"
@@ -358,7 +366,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconrefreshinversepng12"
+            "name": "iconrefreshinversepng1",
+            "namespace": "puttupu"
           }
         },
         "type": "image"
@@ -366,7 +375,7 @@
       "text_1": {
         "parameters": {
           "fontSize": 20,
-          "text": "Thanks for stopping by! This app walks you through best practice examples for designing just the right visualizations and building powerful dynamic apps.\n\nPlay, learn, try! Seriously, click the titles below and dig in. You'll become an Analytics hero in no time. Already a pro? Clone the things you like and call them your own. We won't tell your boss. Promise!\n\nBrand new to Einstein Analytics? Make sure to check out Trailhead first to learn the basics",
+          "text": "Thanks for stopping by! This app walks you through best practice examples for designing just the right visualizations and building powerful dynamic apps.\n\nPlay, learn, try! Seriously, click the titles below and dig in. You&#39;ll become an Analytics hero in no time. Already a pro? Clone the things you like and call them your own. We won&#39;t tell your boss. Promise!\n\nBrand new to Einstein Analytics? Make sure to check out Trailhead first to learn the basics",
           "textAlignment": "left",
           "textColor": "rgb(255, 255, 255)"
         },
@@ -378,7 +387,8 @@
           "alignmentY": "bottom",
           "fit": "fitheight",
           "image": {
-            "name": "astro_hmmmpng12"
+            "name": "astro_hmmmpng1",
+            "namespace": "puttupu"
           }
         },
         "type": "image"
@@ -400,7 +410,8 @@
       "link_11": {
         "parameters": {
           "destinationLink": {
-            "name": "Charts_Introduction"
+            "name": "Charts_Introduction",
+            "namespace": "puttupu"
           },
           "destinationType": "dashboard",
           "fontSize": 24,
@@ -414,7 +425,7 @@
       "text_20": {
         "parameters": {
           "fontSize": 14,
-          "text": "Tie a widget's data or design to the selection or results of another.",
+          "text": "Tie a widget&#39;s data or design to the selection or results of another.",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -423,7 +434,8 @@
       "link_9": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Introduction"
+            "name": "Dynamic_Apps_Introduction",
+            "namespace": "puttupu"
           },
           "destinationType": "dashboard",
           "fontSize": 24,
@@ -440,7 +452,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "titlepng12"
+            "name": "titlepng1",
+            "namespace": "puttupu"
           }
         },
         "type": "container"
@@ -459,7 +472,8 @@
           "alignmentY": "bottom",
           "fit": "fitwidth",
           "image": {
-            "name": "bgfooterjpg12"
+            "name": "bgfooterjpg1",
+            "namespace": "puttupu"
           }
         },
         "type": "container"
@@ -470,7 +484,8 @@
           "alignmentY": "bottom",
           "fit": "fitwidth",
           "image": {
-            "name": "bgfooterdesertjpg12"
+            "name": "bgfooterdesertjpg1",
+            "namespace": "puttupu"
           }
         },
         "type": "container"
@@ -481,7 +496,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "arrowlpng12"
+            "name": "arrowlpng1",
+            "namespace": "puttupu"
           }
         },
         "type": "image"
@@ -497,5 +513,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000FT67WAG"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F00000077DGWAY"
 }
