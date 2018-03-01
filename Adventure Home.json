@@ -23,7 +23,7 @@
   "lastModifiedDate": "2018-02-27T09:09:38.000Z",
   "mobileDisabled": false,
   "name": "Adventure_Home",
-  "namespace": "simha",
+  
   "permissions": {
     "manage": true,
     "modify": true,
@@ -294,8 +294,7 @@
           "fit": "fitwidth",
           "gutterColor": "rgb(8, 30, 41)",
           "image": {
-            "name": "bgpng12",
-            "namespace": "simha"
+            "name": "bgpng12"
           }
         },
         "version": 1
@@ -317,8 +316,7 @@
           "alignmentY": "bottom",
           "fit": "fitheight",
           "image": {
-            "name": "astro_clipboardpng12",
-            "namespace": "simha"
+            "name": "astro_clipboardpng12"
           }
         },
         "type": "image"
@@ -338,8 +336,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconchartpng12",
-            "namespace": "simha"
+            "name": "iconchartpng12"
           }
         },
         "type": "image"
@@ -350,8 +347,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "arrowrpng12",
-            "namespace": "simha"
+            "name": "arrowrpng12"
           }
         },
         "type": "image"
@@ -362,8 +358,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconrefreshinversepng12",
-            "namespace": "simha"
+            "name": "iconrefreshinversepng12"
           }
         },
         "type": "image"
@@ -383,8 +378,7 @@
           "alignmentY": "bottom",
           "fit": "fitheight",
           "image": {
-            "name": "astro_hmmmpng12",
-            "namespace": "simha"
+            "name": "astro_hmmmpng12"
           }
         },
         "type": "image"
@@ -406,8 +400,7 @@
       "link_11": {
         "parameters": {
           "destinationLink": {
-            "name": "Charts_Introduction",
-            "namespace": "simha"
+            "name": "Charts_Introduction"
           },
           "destinationType": "dashboard",
           "fontSize": 24,
@@ -430,8 +423,7 @@
       "link_9": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Introduction",
-            "namespace": "simha"
+            "name": "Dynamic_Apps_Introduction"
           },
           "destinationType": "dashboard",
           "fontSize": 24,
@@ -448,8 +440,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "titlepng12",
-            "namespace": "simha"
+            "name": "titlepng12"
           }
         },
         "type": "container"
@@ -468,8 +459,7 @@
           "alignmentY": "bottom",
           "fit": "fitwidth",
           "image": {
-            "name": "bgfooterjpg12",
-            "namespace": "simha"
+            "name": "bgfooterjpg12"
           }
         },
         "type": "container"
@@ -480,8 +470,7 @@
           "alignmentY": "bottom",
           "fit": "fitwidth",
           "image": {
-            "name": "bgfooterdesertjpg12",
-            "namespace": "simha"
+            "name": "bgfooterdesertjpg12"
           }
         },
         "type": "container"
@@ -492,8 +481,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "arrowlpng12",
-            "namespace": "simha"
+            "name": "arrowlpng12"
           }
         },
         "type": "image"
