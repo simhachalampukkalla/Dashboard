@@ -1,0 +1,100 @@
+{
+  "allowPreview": true,
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000FW68WAG&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "createdBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "createdDate": "2018-03-02T09:48:21.000Z",
+  "datasets": [],
+  "files": [],
+  "folder": {
+    "id": "${App.Folder.Id}"
+  },
+  "id": "0FK7F000000FW68WAG",
+  "label": "Test",
+  "lastAccessedDate": "2018-03-02T09:48:22.000Z",
+  "lastModifiedBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "lastModifiedDate": "2018-03-02T09:48:21.000Z",
+  "mobileDisabled": false,
+  "name": "Test",
+  "namespace": "simha",
+  "permissions": {
+    "manage": true,
+    "modify": true,
+    "view": true
+  },
+  "state": {
+    "dataSourceLinks": [],
+    "filters": [],
+    "gridLayouts": [
+      {
+        "name": "Default",
+        "numColumns": 12,
+        "pages": [
+          {
+            "label": "Untitled",
+            "name": "c912dbe6-baf9-4047-9b4c-3adfa3c96f23",
+            "widgets": [
+              {
+                "colspan": 2,
+                "column": 3,
+                "name": "link_1",
+                "row": 2,
+                "rowspan": 1,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              }
+            ]
+          }
+        ],
+        "rowHeight": "normal",
+        "selectors": [],
+        "style": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "backgroundColor": "#F2F6FA",
+          "cellSpacingX": 8,
+          "cellSpacingY": 8,
+          "fit": "original",
+          "gutterColor": "#C5D3E0"
+        },
+        "version": 1
+      }
+    ],
+    "layouts": [],
+    "steps": {},
+    "widgetStyle": {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECF2",
+      "borderEdges": [],
+      "borderRadius": 0,
+      "borderWidth": 1
+    },
+    "widgets": {
+      "link_1": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Composition",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "Button title",
+          "textAlignment": "center",
+          "textColor": "#44A2F5"
+        },
+        "type": "link"
+      }
+    }
+  },
+  "type": "dashboard",
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000FW68WAG"
+}
