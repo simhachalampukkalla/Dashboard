@@ -1,0 +1,357 @@
+{
+  "allowPreview": true,
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000FT51WAG&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "createdBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "createdDate": "2018-02-27T08:01:43.000Z",
+  "datasets": [
+    {
+      "name": "${App.EdgeMarts.DTC_Quota_simha.Alias}"
+    }
+  ],
+  "files": [
+    {
+      "contentType": "image/png",
+      "fileLength": 6087,
+      "fileName": "assetPreviewThumb",
+      "id": "0FJ7F000000GwbgWAC",
+      "lastModifiedDate": "2018-03-02T07:47:07.000Z",
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000FT51WAG/files/0FJ7F000000GwbgWAC"
+    }
+  ],
+  "folder": {
+    "id": "${App.Folder.Id}"
+  },
+  "id": "0FK7F000000FT51WAG",
+  "label": "simha_dashboard",
+  "lastAccessedDate": "2018-03-02T07:47:36.000Z",
+  "lastModifiedBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "lastModifiedDate": "2018-03-02T07:47:04.000Z",
+  "mobileDisabled": false,
+  "name": "simha_dashboard",
+  "namespace": "simha",
+  "permissions": {
+    "manage": true,
+    "modify": true,
+    "view": true
+  },
+  "refreshDate": "2018-02-27T07:59:55.000Z",
+  "state": {
+    "dataSourceLinks": [],
+    "filters": [],
+    "gridLayouts": [
+      {
+        "name": "Default",
+        "numColumns": 12,
+        "pages": [
+          {
+            "label": "Untitled",
+            "name": "48fa5536-2ba4-4710-8583-268318d45d3e",
+            "widgets": [
+              {
+                "colspan": 6,
+                "column": 3,
+                "name": "chart_1",
+                "row": 3,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 2,
+                "name": "link_1",
+                "row": 1,
+                "rowspan": 1,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              }
+            ]
+          }
+        ],
+        "rowHeight": "normal",
+        "selectors": [],
+        "style": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "backgroundColor": "#F2F6FA",
+          "cellSpacingX": 8,
+          "cellSpacingY": 8,
+          "fit": "original",
+          "gutterColor": "#C5D3E0"
+        },
+        "version": 1
+      }
+    ],
+    "layouts": [],
+    "steps": {
+      "OwnerName_1": {
+        "broadcastFacet": true,
+        "datasets": [
+          {
+            "name": "${App.EdgeMarts.DTC_Quota_simha.Alias}"
+          }
+        ],
+        "isGlobal": false,
+        "query": {
+          "query": "{\"measures\":[[\"sum\",\"QuotaAmount\"]],\"groups\":[\"OwnerName\"]}",
+          "version": -1
+        },
+        "receiveFacet": true,
+        "selectMode": "single",
+        "type": "aggregateflex",
+        "useGlobal": true,
+        "visualizationParameters": {
+          "parameters": {
+            "autoFitMode": "keepLabels",
+            "showValues": true,
+            "bins": {
+              "breakpoints": {
+                "high": 100,
+                "low": 0
+              },
+              "bands": {
+                "high": {
+                  "color": "#008000",
+                  "label": ""
+                },
+                "low": {
+                  "color": "#B22222",
+                  "label": ""
+                },
+                "medium": {
+                  "color": "#ffa500",
+                  "label": ""
+                }
+              }
+            },
+            "legend": {
+              "showHeader": true,
+              "show": true,
+              "customSize": "auto",
+              "position": "right-top",
+              "inside": false
+            },
+            "axisMode": "multi",
+            "tooltip": {
+              "showBinLabel": true,
+              "measures": "",
+              "showPercentage": true,
+              "showDimensions": true,
+              "showMeasures": true,
+              "customizeTooltip": false,
+              "dimensions": ""
+            },
+            "visualizationType": "hbar",
+            "title": {
+              "fontSize": 14,
+              "subtitleFontSize": 11,
+              "label": "",
+              "align": "center",
+              "subtitleLabel": ""
+            },
+            "binValues": false,
+            "trellis": {
+              "flipLabels": false,
+              "showGridLines": true,
+              "size": [
+                100,
+                100
+              ],
+              "enable": false,
+              "type": "x",
+              "chartsPerLine": 4
+            },
+            "columnMap": {
+              "trellis": [],
+              "dimensionAxis": [
+                "OwnerName"
+              ],
+              "plots": [
+                "sum_QuotaAmount"
+              ]
+            },
+            "measureAxis2": {
+              "sqrtScale": false,
+              "showTitle": true,
+              "showAxis": true,
+              "title": "",
+              "customDomain": {
+                "showDomain": false
+              }
+            },
+            "measureAxis1": {
+              "sqrtScale": false,
+              "showTitle": true,
+              "showAxis": true,
+              "title": "",
+              "customDomain": {
+                "showDomain": false
+              }
+            },
+            "theme": "wave",
+            "dimensionAxis": {
+              "showTitle": true,
+              "customSize": "auto",
+              "showAxis": true,
+              "title": "",
+              "icons": {
+                "useIcons": false,
+                "iconProps": {
+                  "fit": "cover",
+                  "column": "",
+                  "type": "round"
+                }
+              }
+            }
+          },
+          "type": "chart"
+        }
+      }
+    },
+    "widgetStyle": {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#E6ECF2",
+      "borderEdges": [],
+      "borderRadius": 0,
+      "borderWidth": 1
+    },
+    "widgets": {
+      "link_1": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Location",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "Button title",
+          "textAlignment": "center",
+          "textColor": "#44A2F5"
+        },
+        "type": "link"
+      },
+      "chart_1": {
+        "parameters": {
+          "autoFitMode": "keepLabels",
+          "showValues": true,
+          "bins": {
+            "breakpoints": {
+              "high": 100,
+              "low": 0
+            },
+            "bands": {
+              "high": {
+                "color": "#008000",
+                "label": ""
+              },
+              "low": {
+                "color": "#B22222",
+                "label": ""
+              },
+              "medium": {
+                "color": "#ffa500",
+                "label": ""
+              }
+            }
+          },
+          "legend": {
+            "showHeader": true,
+            "show": true,
+            "customSize": "auto",
+            "position": "right-top",
+            "inside": false
+          },
+          "axisMode": "multi",
+          "tooltip": {
+            "showBinLabel": true,
+            "measures": "",
+            "showPercentage": true,
+            "showDimensions": true,
+            "showMeasures": true,
+            "customizeTooltip": false,
+            "dimensions": ""
+          },
+          "visualizationType": "hbar",
+          "exploreLink": true,
+          "title": {
+            "fontSize": 14,
+            "subtitleFontSize": 11,
+            "label": "",
+            "align": "center",
+            "subtitleLabel": ""
+          },
+          "binValues": false,
+          "trellis": {
+            "flipLabels": false,
+            "showGridLines": true,
+            "size": [
+              100,
+              100
+            ],
+            "enable": false,
+            "type": "x",
+            "chartsPerLine": 4
+          },
+          "columnMap": {
+            "trellis": [],
+            "dimensionAxis": [
+              "OwnerName"
+            ],
+            "plots": [
+              "sum_QuotaAmount"
+            ]
+          },
+          "measureAxis2": {
+            "sqrtScale": false,
+            "showTitle": true,
+            "showAxis": true,
+            "title": "",
+            "customDomain": {
+              "showDomain": false
+            }
+          },
+          "computeTotal": false,
+          "measureAxis1": {
+            "sqrtScale": false,
+            "showTitle": true,
+            "showAxis": true,
+            "title": "",
+            "customDomain": {
+              "showDomain": false
+            }
+          },
+          "theme": "wave",
+          "step": "OwnerName_1",
+          "dimensionAxis": {
+            "showTitle": true,
+            "customSize": "auto",
+            "showAxis": true,
+            "title": "",
+            "icons": {
+              "useIcons": false,
+              "iconProps": {
+                "fit": "cover",
+                "column": "",
+                "type": "round"
+              }
+            }
+          }
+        },
+        "type": "chart"
+      }
+    }
+  },
+  "type": "dashboard",
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000FT51WAG"
+}
