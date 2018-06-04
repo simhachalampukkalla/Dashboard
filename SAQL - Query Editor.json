@@ -1,12 +1,12 @@
 {
   "allowPreview": true,
-  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM2LWAW&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM2XWAW&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
   "createdBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
     "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
   },
-  "createdDate": "2018-05-17T04:18:53.000Z",
+  "createdDate": "2018-05-17T04:18:56.000Z",
   "datasets": [
     {
       "id": "0Fb7F000000H66jSAC",
@@ -16,7 +16,16 @@
       "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
-  "files": [],
+  "files": [
+    {
+      "contentType": "image/png",
+      "fileLength": 17059,
+      "fileName": "assetPreviewThumb",
+      "id": "0FJ7F000000GzelWAC",
+      "lastModifiedDate": "2018-05-17T04:35:38.000Z",
+      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2XWAW/files/0FJ7F000000GzelWAC"
+    }
+  ],
   "folder": {
     "id": "00l7F000000ilbdQAA",
     "label": "Einstein Analytics Learning Adventure",
@@ -24,17 +33,17 @@
     "namespace": "simha",
     "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
   },
-  "id": "0FK7F000000GM2LWAW",
-  "label": "Dynamic Apps - Design  - Values Table",
-  "lastAccessedDate": "2018-06-04T10:23:53.000Z",
+  "id": "0FK7F000000GM2XWAW",
+  "label": "SAQL - Query Editor",
+  "lastAccessedDate": "2018-06-04T10:46:27.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
     "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
   },
-  "lastModifiedDate": "2018-05-17T04:19:01.000Z",
+  "lastModifiedDate": "2018-05-17T04:19:04.000Z",
   "mobileDisabled": false,
-  "name": "Dynamic_Apps_Design_Values_Table15253301119871525415081833",
+  "name": "Query_Editor",
   "namespace": "simha",
   "permissions": {
     "manage": true,
@@ -53,10 +62,24 @@
         "pages": [
           {
             "label": "Untitled",
-            "name": "5285acb0-e32a-4ba6-9bf7-a4183a5a436a",
+            "name": "a3e27b10-9491-4623-9af3-9421bf92d4e9",
             "widgets": [
               {
                 "colspan": 2,
+                "column": 0,
+                "name": "image_8",
+                "row": 14,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 3,
                 "column": 0,
                 "name": "link_8",
                 "row": 0,
@@ -86,20 +109,6 @@
               {
                 "colspan": 40,
                 "column": 0,
-                "name": "text_2",
-                "row": 7,
-                "rowspan": 2,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "#5C7A99",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 2
-                }
-              },
-              {
-                "colspan": 40,
-                "column": 0,
                 "name": "container_1",
                 "row": 0,
                 "rowspan": 11,
@@ -112,52 +121,10 @@
                 }
               },
               {
-                "colspan": 2,
-                "column": 0,
-                "name": "image_1",
-                "row": 42,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 2,
-                "column": 0,
-                "name": "image_2",
-                "row": 46,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_11",
-                "row": 46,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "rgb(216, 221, 230)",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
                 "colspan": 4,
                 "column": 2,
                 "name": "link_12",
-                "row": 50,
+                "row": 42,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -184,7 +151,7 @@
               {
                 "colspan": 4,
                 "column": 2,
-                "name": "link_14",
+                "name": "link_15",
                 "row": 58,
                 "rowspan": 4,
                 "widgetStyle": {
@@ -198,8 +165,8 @@
               {
                 "colspan": 4,
                 "column": 2,
-                "name": "link_2",
-                "row": 62,
+                "name": "link_1",
+                "row": 38,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -213,20 +180,306 @@
                 "colspan": 20,
                 "column": 7,
                 "name": "container_2",
-                "row": 23,
-                "rowspan": 33,
+                "row": 21,
+                "rowspan": 68,
                 "widgetStyle": {
                   "backgroundColor": "rgb(225, 243, 251)",
-                  "borderColor": "#E6ECF2",
+                  "borderColor": "rgb(34, 144, 138)",
                   "borderEdges": [],
                   "borderRadius": 8,
                   "borderWidth": 1
                 }
               },
               {
+                "colspan": 6,
+                "column": 0,
+                "name": "container_6",
+                "row": 11,
+                "rowspan": 82,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_2",
+                "row": 34,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_3",
+                "row": 62,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "text_3",
+                "row": 7,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_2",
+                "row": 38,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_3",
+                "row": 42,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_5",
+                "row": 62,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_6",
+                "row": 58,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_7",
+                "row": 54,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_9",
+                "row": 34,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
                 "colspan": 11,
                 "column": 28,
-                "name": "text_10",
+                "name": "text_5",
+                "row": 52,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(250, 247, 245)",
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [
+                    "top"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 20,
+                "column": 7,
+                "name": "container_5",
+                "row": 14,
+                "rowspan": 6,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(225, 243, 251)",
+                  "borderColor": "rgb(34, 144, 138)",
+                  "borderEdges": [],
+                  "borderRadius": 8,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 7,
+                "name": "text_4",
+                "row": 15,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(22, 50, 92)",
+                  "borderEdges": [
+                    "right"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 14,
+                "column": 12,
+                "name": "text_25",
+                "row": 15,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 10,
+                "column": 28,
+                "name": "link_6",
+                "row": 85,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_26",
+                "row": 80,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(250, 247, 245)",
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [
+                    "top"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_27",
+                "row": 19,
+                "rowspan": 11,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_1",
+                "row": 22,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_9",
+                "row": 22,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_11",
+                "row": 14,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_8",
                 "row": 14,
                 "rowspan": 4,
                 "widgetStyle": {
@@ -243,214 +496,40 @@
                 "colspan": 11,
                 "column": 28,
                 "name": "text_9",
-                "row": 19,
-                "rowspan": 53,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 8,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 7,
-                "name": "text_17",
-                "row": 58,
-                "rowspan": 4,
+                "row": 57,
+                "rowspan": 21,
                 "widgetStyle": {
                   "backgroundColor": "#FFFFFF",
-                  "borderColor": "rgb(34, 144, 138)",
-                  "borderEdges": [
-                    "right"
-                  ],
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
                   "borderRadius": 0,
                   "borderWidth": 1
                 }
               },
               {
-                "colspan": 15,
-                "column": 12,
-                "name": "text_18",
-                "row": 58,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 8,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 15,
-                "column": 12,
-                "name": "text_20",
-                "row": 65,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 8,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 20,
-                "column": 7,
-                "name": "container_4",
-                "row": 71,
-                "rowspan": 22,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(250, 247, 245)",
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 7,
-                "name": "text_21",
-                "row": 65,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
-                  "borderColor": "rgb(36, 147, 243)",
-                  "borderEdges": [
-                    "right"
-                  ],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 17,
-                "column": 7,
-                "name": "text_22",
-                "row": 74,
+                "colspan": 11,
+                "column": 28,
+                "name": "text_12",
+                "row": 32,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgb(250, 247, 245)",
-                  "borderColor": "#C5D3E0",
-                  "borderEdges": [],
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [
+                    "top"
+                  ],
                   "borderRadius": 0,
-                  "borderWidth": 1
+                  "borderWidth": 2
                 }
               },
               {
-                "colspan": 20,
-                "column": 7,
-                "name": "text_23",
-                "row": 78,
+                "colspan": 11,
+                "column": 28,
+                "name": "text_24",
+                "row": 37,
                 "rowspan": 13,
                 "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 6,
-                "column": 0,
-                "name": "container_6",
-                "row": 11,
-                "rowspan": 86,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(244, 246, 249)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 20,
-                "column": 7,
-                "name": "container_7",
-                "row": 57,
-                "rowspan": 6,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
-                  "borderColor": "rgb(34, 144, 138)",
-                  "borderEdges": [
-                    "all"
-                  ],
-                  "borderRadius": 8,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 20,
-                "column": 7,
-                "name": "container_8",
-                "row": 64,
-                "rowspan": 6,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
-                  "borderColor": "rgb(36, 147, 243)",
-                  "borderEdges": [
-                    "all"
-                  ],
-                  "borderRadius": 8,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 19,
-                "column": 7,
-                "name": "text_3",
-                "row": 71,
-                "rowspan": 3,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(237, 235, 232)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 1,
-                "column": 26,
-                "name": "image_7",
-                "row": 71,
-                "rowspan": 3,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(237, 235, 232)",
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 6,
-                "column": 0,
-                "name": "text_6",
-                "row": 39,
-                "rowspan": 3,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 6,
-                "column": 0,
-                "name": "text_7",
-                "row": 19,
-                "rowspan": 3,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 2,
-                "column": 0,
-                "name": "image_8",
-                "row": 22,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
+                  "backgroundColor": "#FFFFFF",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -460,8 +539,8 @@
               {
                 "colspan": 2,
                 "column": 0,
-                "name": "image_9",
-                "row": 26,
+                "name": "image_4",
+                "row": 46,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -474,12 +553,82 @@
               {
                 "colspan": 4,
                 "column": 2,
-                "name": "link_3",
-                "row": 26,
+                "name": "link_14",
+                "row": 46,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 19,
+                "column": 8,
+                "name": "text_28",
+                "row": 23,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(2, 34, 66, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "text_29",
+                "row": 26,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "image_11",
+                "row": 29,
+                "rowspan": 14,
+                "widgetStyle": {
+                  "backgroundColor": "#335779",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 4,
+                  "borderWidth": 4
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "image_12",
+                "row": 52,
+                "rowspan": 21,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(2, 34, 66)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 4,
+                  "borderWidth": 4
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "text_2",
+                "row": 45,
+                "rowspan": 6,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
                   "borderWidth": 1
@@ -489,7 +638,7 @@
                 "colspan": 2,
                 "column": 0,
                 "name": "image_10",
-                "row": 30,
+                "row": 26,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "#FFFFFF",
@@ -502,23 +651,23 @@
               {
                 "colspan": 4,
                 "column": 2,
-                "name": "link_4",
-                "row": 30,
+                "name": "link_7",
+                "row": 26,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "#FFFFFF",
-                  "borderColor": "rgb(216, 221, 230)",
+                  "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
                   "borderWidth": 1
                 }
               },
               {
-                "colspan": 2,
+                "colspan": 6,
                 "column": 0,
-                "name": "image_11",
-                "row": 14,
-                "rowspan": 4,
+                "name": "text_6",
+                "row": 51,
+                "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "#F2F6FA",
                   "borderColor": "#E6ECF2",
@@ -528,95 +677,13 @@
                 }
               },
               {
-                "colspan": 20,
-                "column": 7,
-                "name": "container_3",
-                "row": 14,
-                "rowspan": 8,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(225, 243, 251)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 8,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 7,
-                "name": "text_14",
-                "row": 15,
-                "rowspan": 6,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
-                  "borderColor": "rgb(22, 50, 92)",
-                  "borderEdges": [
-                    "right"
-                  ],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 14,
-                "column": 12,
-                "name": "text_15",
-                "row": 15,
-                "rowspan": 6,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_1",
-                "row": 22,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "rgb(216, 221, 230)",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_5",
-                "row": 14,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "rgb(216, 221, 230)",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_6",
-                "row": 42,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(242, 246, 250)",
-                  "borderColor": "rgb(216, 221, 230)",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 18,
-                "column": 8,
-                "name": "pillbox_1",
-                "row": 25,
+                "colspan": 6,
+                "column": 0,
+                "name": "text_7",
+                "row": 31,
                 "rowspan": 3,
                 "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
+                  "backgroundColor": "#F2F6FA",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -624,77 +691,17 @@
                 }
               },
               {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_10",
-                "row": 34,
-                "rowspan": 4,
+                "colspan": 6,
+                "column": 0,
+                "name": "text_10",
+                "row": 19,
+                "rowspan": 3,
                 "widgetStyle": {
-                  "backgroundColor": "rgb(242, 246, 250)",
-                  "borderColor": "rgb(216, 221, 230)",
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
                   "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 18,
-                "column": 8,
-                "name": "table_2",
-                "row": 29,
-                "rowspan": 21,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 2,
-                "column": 0,
-                "name": "image_3",
-                "row": 50,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 2,
-                "column": 0,
-                "name": "image_4",
-                "row": 54,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 2,
-                "column": 0,
-                "name": "image_5",
-                "row": 58,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 2,
-                "column": 0,
-                "name": "image_6",
-                "row": 62,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 2,
-                "column": 0,
-                "name": "image_12",
-                "row": 34,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "borderEdges": []
                 }
               }
             ]
@@ -716,41 +723,36 @@
     ],
     "layouts": [],
     "steps": {
-      "static_1": {
-        "broadcastFacet": false,
-        "groups": [],
+      "Product_Name_1": {
+        "broadcastFacet": true,
+        "datasets": [
+          {
+            "id": "0Fb7F000000H66jSAC",
+            "label": "Wave_Sample_Opportunities",
+            "name": "Wave_Sample_Opportunities3",
+            "namespace": "simha",
+            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+          }
+        ],
         "isGlobal": false,
-        "numbers": [],
-        "selectMode": "multirequired",
-        "start": "{&quot;display&quot;:[&quot;Stage&quot;]}",
-        "strings": [],
-        "type": "staticflex",
-        "useGlobal": false,
-        "values": [
-          "{&quot;display&quot;:&quot;Stage&quot;,&quot;value&quot;:&quot;Stage&quot;}",
-          "{&quot;display&quot;:&quot;Owner&quot;,&quot;value&quot;:&quot;Opportunity_Owner&quot;}",
-          "{&quot;display&quot;:&quot;Forecast Category&quot;,&quot;value&quot;:&quot;Forecast_Category&quot;}"
-        ]
+        "query": {
+          "query": "{&quot;measures&quot;:[[&quot;sum&quot;,&quot;Amount&quot;]],&quot;groups&quot;:[&quot;Product_Name&quot;],&quot;order&quot;:[[-1,{&quot;ascending&quot;:&quot;{{cell(Grouping___Compariso_1.selection, 0, &#92;&quot;value&#92;&quot;).asObject()}}&quot;}]]}",
+          "version": -1
+        },
+        "receiveFacet": true,
+        "selectMode": "multi",
+        "type": "aggregateflex",
+        "useGlobal": true,
+        "visualizationParameters": {
+          "options": {},
+          "visualizationType": "hbar"
+        }
       },
-      "Binding_Value_1": {
-        "broadcastFacet": false,
-        "groups": [],
-        "isGlobal": false,
-        "label": "Binding Value",
-        "numbers": [],
-        "selectMode": "single",
-        "strings": [],
-        "type": "staticflex",
-        "useGlobal": false,
-        "values": [
-          "{&quot;display&quot;:&quot;1&quot;,&quot;value&quot;:&quot;{{row(static_1.selection, [], [&#92;&#92;&#92;&quot;value&#92;&#92;&#92;&quot;, &#92;&#92;&#92;&quot;display&#92;&#92;&#92;&quot;]).asProjection()}}&quot;}"
-        ]
-      },
-      "lens_4": {
+      "lens_1": {
         "broadcastFacet": true,
         "groups": [],
         "numbers": [],
-        "query": "q = load &quot;simha__Wave_Sample_Opportunities3&quot;;\nq = foreach q generate {{row(static_1.selection, [], [&quot;value&quot;, &quot;display&quot;]).asProjection()}}, &#39;Opportunity_Name&#39; as &#39;Opportunity_Name&#39;,  &#39;Amount&#39; as &#39;Amount&#39;, &#39;Close_Date&#39; as &#39;Close_Date&#39;;\nq = limit q 100;\n",
+        "query": "q = load &quot;simha__Wave_Sample_Opportunities3&quot;;\nq = filter q by &#39;Account_Type&#39; == &quot;Customer&quot;;\nq = group q by &#39;Opportunity_Owner&#39;;\nq = foreach q generate &#39;Opportunity_Owner&#39; as &#39;Opportunity_Owner&#39;, sum(&#39;Amount&#39;) as &#39;sum_Amount&#39;;\nq = order q by &#39;sum_Amount&#39; desc;\nq = limit q 5;",
         "receiveFacet": true,
         "selectMode": "single",
         "strings": [],
@@ -758,19 +760,114 @@
         "useGlobal": true,
         "visualizationParameters": {
           "parameters": {
-            "columnProperties": {},
-            "columns": [],
-            "customBulkActions": [],
-            "maxColumnWidth": 300,
-            "minColumnWidth": 40,
-            "mode": "variable"
+            "autoFitMode": "keepLabels",
+            "showValues": true,
+            "bins": {
+              "breakpoints": {
+                "high": 100,
+                "low": 0
+              },
+              "bands": {
+                "high": {
+                  "color": "#008000",
+                  "label": ""
+                },
+                "low": {
+                  "color": "#B22222",
+                  "label": ""
+                },
+                "medium": {
+                  "color": "#ffa500",
+                  "label": ""
+                }
+              }
+            },
+            "legend": {
+              "showHeader": true,
+              "show": true,
+              "customSize": "auto",
+              "position": "right-top",
+              "inside": false
+            },
+            "axisMode": "multi",
+            "tooltip": {
+              "showBinLabel": true,
+              "measures": "",
+              "showPercentage": true,
+              "showDimensions": true,
+              "showMeasures": true,
+              "customizeTooltip": false,
+              "dimensions": ""
+            },
+            "visualizationType": "hbar",
+            "title": {
+              "fontSize": 14,
+              "subtitleFontSize": 11,
+              "label": "",
+              "align": "center",
+              "subtitleLabel": ""
+            },
+            "binValues": false,
+            "trellis": {
+              "flipLabels": false,
+              "showGridLines": true,
+              "size": [
+                100,
+                100
+              ],
+              "enable": false,
+              "type": "x",
+              "chartsPerLine": 4
+            },
+            "columnMap": {
+              "trellis": [],
+              "dimensionAxis": [
+                "Opportunity_Owner"
+              ],
+              "plots": [
+                "sum_Amount"
+              ]
+            },
+            "measureAxis2": {
+              "sqrtScale": false,
+              "showTitle": true,
+              "showAxis": true,
+              "title": "",
+              "customDomain": {
+                "showDomain": false
+              }
+            },
+            "measureAxis1": {
+              "sqrtScale": false,
+              "showTitle": true,
+              "showAxis": true,
+              "title": "",
+              "customDomain": {
+                "showDomain": false
+              }
+            },
+            "theme": "wave",
+            "dimensionAxis": {
+              "showTitle": true,
+              "customSize": "auto",
+              "showAxis": true,
+              "title": "",
+              "icons": {
+                "useIcons": false,
+                "iconProps": {
+                  "fit": "cover",
+                  "column": "",
+                  "type": "round"
+                }
+              }
+            }
           },
-          "type": "table"
+          "type": "chart"
         }
       }
     },
     "widgetStyle": {
-      "backgroundColor": "rgba(2, 34, 66, 0)",
+      "backgroundColor": "rgb(2, 34, 66)",
       "borderColor": "#E6ECF2",
       "borderEdges": [],
       "borderRadius": 0,
@@ -783,40 +880,22 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "icontablepng3",
+            "name": "iconeditpng",
             "namespace": "simha"
           }
         },
         "type": "image"
       },
-      "text_18": {
-        "parameters": {
-          "fontSize": 14,
-          "text": "{{ cell( Binding_Value_1.result, 0, &quot;value&quot;).asString() }}",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
-      "text_17": {
-        "parameters": {
-          "fontSize": 24,
-          "text": "CODE",
-          "textAlignment": "center",
-          "textColor": "rgb(34, 144, 138)"
-        },
-        "type": "text"
-      },
       "link_14": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Data_Limit1",
+            "name": "New_Copy_Complex_Boolean_Logic",
             "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
-          "text": "LIMIT",
+          "text": "LOGICAL OPERATORS",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -824,23 +903,38 @@
       },
       "image_12": {
         "parameters": {
-          "alignmentX": "center",
+          "alignmentX": "left",
           "alignmentY": "center",
-          "fit": "original",
+          "fit": "fitwidth",
           "image": {
-            "name": "iconconditionalpng3",
+            "name": "editorgif",
             "namespace": "simha"
           }
         },
         "type": "image"
       },
+      "link_15": {
+        "parameters": {
+          "destinationLink": {
+            "name": "New_Copy_Computing_Standard_Deviations",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "STANDARD DEVIATIONS",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
       "image_11": {
         "parameters": {
-          "alignmentX": "center",
+          "alignmentX": "left",
           "alignmentY": "center",
-          "fit": "original",
+          "fit": "fitwidth",
           "image": {
-            "name": "iconintroductionpng3",
+            "name": "findeditorgif",
             "namespace": "simha"
           }
         },
@@ -849,52 +943,28 @@
       "link_12": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Data_Measure_Compact_Form7",
+            "name": "New_Copy_Union",
             "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
-          "text": "MEASURE",
+          "text": "UNION",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
-      },
-      "text_14": {
-        "parameters": {
-          "fontSize": 24,
-          "text": "GOAL",
-          "textAlignment": "center",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
       },
       "link_13": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Data_Grouping_Compact_Form11",
+            "name": "New_Copy_Computing_Quartiles",
             "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
-          "text": "GROUPING",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "link"
-      },
-      "link_10": {
-        "parameters": {
-          "destinationLink": {
-            "name": "Dynamic_Apps_Design_Conditional_Formatting15253301119971525415081833",
-            "namespace": "simha"
-          },
-          "destinationType": "dashboard",
-          "fontSize": 12,
-          "includeState": false,
-          "text": "CONDITIONAL FORMAT",
+          "text": "QUARTILES",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -903,31 +973,31 @@
       "link_11": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Data_Date_Filter1",
+            "name": "KA_SAQL_Introduction",
             "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
-          "text": "DATE FILTER",
+          "text": "INTRODUCTION",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
       },
-      "text_15": {
+      "text_10": {
         "parameters": {
-          "fontSize": 16,
-          "text": "Build a binding to dynamically show table columns based on the selection. Hide unwanted columns to minimize the scrolling. Try it below!",
+          "fontSize": 12,
+          "text": "SAQL BASICS",
           "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
+          "textColor": "rgb(107, 109, 112)"
         },
         "type": "text"
       },
-      "text_10": {
+      "text_12": {
         "parameters": {
           "fontSize": 20,
-          "text": "Build It Yourself!",
+          "text": "Show Me How",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -947,25 +1017,17 @@
       },
       "container_2": {
         "parameters": {
-          "alignmentX": "left",
+          "alignmentX": "center",
           "alignmentY": "bottom",
           "fit": "fitwidth",
           "image": {
-            "name": "bgfooterdesertjpg13",
+            "name": "bgfootersnowjpg",
             "namespace": "simha"
           }
         },
         "type": "container"
       },
-      "container_3": {
-        "parameters": {
-          "alignmentX": "left",
-          "alignmentY": "bottom",
-          "fit": "fitwidth"
-        },
-        "type": "container"
-      },
-      "container_4": {
+      "container_5": {
         "parameters": {
           "alignmentX": "left",
           "alignmentY": "top",
@@ -983,42 +1045,45 @@
       },
       "text_3": {
         "parameters": {
-          "fontSize": 12,
-          "text": "TRANSLATION",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
-      "text_2": {
-        "parameters": {
           "fontSize": 16,
-          "text": "Tie a widget&#39;s data or design to the selection or results of another",
+          "text": "Ask Your Data Questions with SAQL Queries",
           "textAlignment": "center",
           "textColor": "#FFFFFF"
         },
         "type": "text"
       },
-      "container_7": {
+      "text_2": {
         "parameters": {
-          "alignmentX": "left",
-          "alignmentY": "top",
-          "fit": "original"
+          "fontSize": 14,
+          "text": "Don&#39;t be shy! Get in there and edit the query. Don&#39;t forget to click Run Query to see your changes reflected in the results table. Then, select the chart type you want to see your query in action.",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)",
+          "tooltip": ""
         },
-        "type": "container"
+        "type": "text"
       },
-      "container_8": {
+      "text_5": {
         "parameters": {
-          "alignmentX": "left",
-          "alignmentY": "top",
-          "fit": "original"
+          "fontSize": 20,
+          "text": "Go Play!",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
         },
-        "type": "container"
+        "type": "text"
+      },
+      "text_4": {
+        "parameters": {
+          "fontSize": 24,
+          "text": "GOAL",
+          "textAlignment": "center",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
       },
       "text_7": {
         "parameters": {
           "fontSize": 12,
-          "text": "DYNAMIC DESIGN",
+          "text": "SAQL OPERATIONS",
           "textAlignment": "left",
           "textColor": "rgb(107, 109, 112)"
         },
@@ -1027,7 +1092,7 @@
       "text_6": {
         "parameters": {
           "fontSize": 12,
-          "text": "DYNAMIC DATA",
+          "text": "SAQL &amp; STATISTICS",
           "textAlignment": "left",
           "textColor": "rgb(107, 109, 112)"
         },
@@ -1036,7 +1101,16 @@
       "text_9": {
         "parameters": {
           "fontSize": 14,
-          "text": "In this example, a SAQL step type powers the values table widget.\n\n1) Create a toggle widget (&quot;pillbox_1&quot;) with static step (&quot;static_1&quot;) that displays Stage, Owner, and Forecast Category. For each toggle option, specify the column to show in the values table.\n\n2) Create a values table widget (&quot;table_2&quot;) with SAQL step type (&quot;lens_4&quot;) that shows the Opportunity Name, Amount, and Close Date columns.\n\n3) To dynamically show a additional columns based on the selection in the toggle widget, open the dashboard JSON and add the binding for the derived dimensions to the foreach statement of the SAQL query for the step (&quot;lens_4&quot;).\n\nq = foreach q generate {{ cell( Binding_Value_1.result, 0, &quot;value&quot;).asString() }}, &#39;Opportunity_Name&#39; as &#39;Opportunity_Name&#39;,  &#39;Amount&#39; as &#39;Amount&#39;, &#39;Close_Date&#39; as &#39;Close_Date&#39;;\n\n4) VOILÀ! Click Done and you&#39;re ready to go.\n\nTo see how we created the widgets, steps, and binding in this dashboard, press Cmd+E for Mac or Ctrl+E for Windows, and search for them in the dashboard JSON.",
+          "text": "For each examples in this learning adventure app, we&#39;ll show you the SAQL query we used. Want to play around yourself?:\n\n1. Copy the query and open up explorer. \n\n2. Open the query editor (top GIF).\n\n3. Paste the query into the editor and try things out. See how changing fields updates the query. \n\nYou&#39;ll be a pro in no time!",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_8": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "Why Use the Query Editor?",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1048,7 +1122,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconreferencelinepng6",
+            "name": "icontablepng3",
             "namespace": "simha"
           }
         },
@@ -1060,7 +1134,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconmappng3",
+            "name": "iconintroductionpng3",
             "namespace": "simha"
           }
         },
@@ -1072,11 +1146,20 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconlimitpng3",
+            "name": "icondistributionpng3",
             "namespace": "simha"
           }
         },
         "type": "image"
+      },
+      "text_29": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "Use and start creating a chart. You&#39;ll notice the Query Editor in the upper right",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
       },
       "image_4": {
         "parameters": {
@@ -1084,16 +1167,25 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "icongrouppng3",
+            "name": "iconconditionalpng3",
             "namespace": "simha"
           }
         },
         "type": "image"
       },
+      "text_28": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "Customize Your Queries",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
       "text_1": {
         "parameters": {
           "fontSize": 32,
-          "text": "Build Dynamic Apps",
+          "text": "Get to Know Salesforce Analytics Query Language",
           "textAlignment": "center",
           "textColor": "#FFFFFF"
         },
@@ -1105,7 +1197,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconlearnmorepng3",
+            "name": "iconcomparepng3",
             "namespace": "simha"
           }
         },
@@ -1117,7 +1209,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconorderpng3",
+            "name": "iconmeasurepng3",
             "namespace": "simha"
           }
         },
@@ -1126,121 +1218,109 @@
       "link_3": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Design_Reference_Line3",
+            "name": "New_Copy_Data_Spreads",
             "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
-          "text": "REF. LINE",
+          "text": "DATA SPREADS",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
       },
-      "link_4": {
+      "text_25": {
         "parameters": {
-          "destinationType": "lens",
-          "fontSize": 12,
-          "includeState": false,
-          "text": "VALUES TABLE",
+          "fontSize": 16,
+          "text": "Ready to write some SAQL? Where? How? Get to know the query editor! ",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
-        "type": "link"
+        "type": "text"
+      },
+      "text_24": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "Open up Explorer and navigate to the selectors at the upper right. In the GIF to the left, the Query Editor is the icon on the far right. Looks like this: &lt;_\n\nWithin the editor, customize the query. Click Run Query to see updated results in the table. Check the GIF to see editing in action!",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
       },
       "link_1": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Design_Chart_Type15253301119921525415081836",
+            "name": "New_Copy_KA_SAQL_WINDOWING",
             "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
-          "text": "CHART TYPE",
+          "text": "WINDOWING",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
+      },
+      "text_27": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "Behind every chart in Einstein Analytics is a SAQL query that fetches and process the data. \n\nWhile you can create amazing visualizations with explorer, the query editor let&#39;s you take things to the next level with custom queries.",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
       },
       "link_2": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Data_Order_Compact_Form7",
+            "name": "New_Copy_COGROUP",
             "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
-          "text": "ORDER",
+          "text": "COGROUP",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
       },
-      "text_21": {
-        "parameters": {
-          "fontSize": 24,
-          "text": "RESULTS",
-          "textAlignment": "center",
-          "textColor": "rgb(36, 147, 243)"
-        },
-        "type": "text"
-      },
-      "text_20": {
-        "parameters": {
-          "fontSize": 14,
-          "text": "{{row(static_1.selection, [], [&quot;value&quot;, &quot;display&quot;]).asProjection()}}",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
-      "text_23": {
-        "parameters": {
-          "fontSize": 14,
-          "text": "1) row(static_1.selection, [], [&quot;value&quot;, &quot;display&quot;]) returns the selected table columns from the &quot;static_1&quot; step. Gets the values from the &quot;value&quot; and &quot;display&quot; columns for each row in the step selection. To support multiple selections, the row index is omitted.\n\n2) asProjection() formats the results as a projection, the expected format in the dashboard JSON. This function concatenates the &quot;value&quot; column value, &#39;as&#39;, and the &quot;display&quot; column value, like &quot;Stage as &#39;Stage&#39;.&quot;",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
-      "text_22": {
+      "text_26": {
         "parameters": {
           "fontSize": 20,
-          "text": "What Does This Code Mean?",
+          "text": "Learn More",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "text"
       },
-      "table_2": {
+      "link_9": {
         "parameters": {
-          "borderColor": "#e0e5ee",
-          "borderWidth": 1,
-          "cell": {
-            "backgroundColor": "#ffffff",
-            "fontColor": "#16325c",
-            "fontSize": 12
+          "destinationLink": {
+            "name": "SAQL_Introduction2_Manny_Updates",
+            "namespace": "simha"
           },
-          "columnProperties": {},
-          "columns": [],
-          "customBulkActions": [],
-          "exploreLink": true,
-          "header": {
-            "backgroundColor": "#f4f6f9",
-            "fontColor": "#16325c",
-            "fontSize": 12
-          },
-          "innerMajorBorderColor": "#a8b7c7",
-          "innerMinorBorderColor": "#e0e5ee",
-          "mode": "fittocontainer",
-          "numberOfLines": 1,
-          "step": "lens_4",
-          "verticalPadding": 8
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "BASIC QUERY",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
         },
-        "type": "table"
+        "type": "link"
+      },
+      "link_7": {
+        "parameters": {
+          "destinationType": "lens",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "QUERY EDITOR",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
       },
       "link_8": {
         "parameters": {
@@ -1257,41 +1337,17 @@
         },
         "type": "link"
       },
-      "pillbox_1": {
-        "parameters": {
-          "compact": false,
-          "exploreLink": true,
-          "step": "static_1"
-        },
-        "type": "pillbox"
-      },
-      "link_5": {
-        "parameters": {
-          "destinationLink": {
-            "name": "Dynamic_Apps_Introduction15253301120091525415081836",
-            "namespace": "simha"
-          },
-          "destinationType": "dashboard",
-          "fontSize": 12,
-          "includeState": false,
-          "text": "INTRODUCTION",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "link"
-      },
       "link_6": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Data_Basic_Filter15253301119482",
-            "namespace": "simha"
+            "url": "https://developer.salesforce.com/docs/atlas.en-us.bi_dev_guide_saql.meta/bi_dev_guide_saql/bi_saql_statements.htm"
           },
-          "destinationType": "dashboard",
-          "fontSize": 12,
+          "destinationType": "url",
+          "fontSize": 14,
           "includeState": false,
-          "text": "BASIC FILTER",
+          "text": "SAQL Documentation",
           "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
+          "textColor": "rgb(0, 112, 210)"
         },
         "type": "link"
       },
@@ -1301,7 +1357,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconfilterpng6",
+            "name": "iconcodepng",
             "namespace": "simha"
           }
         },
@@ -1313,7 +1369,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconmeasurepng3",
+            "name": "iconrelationshippng6",
             "namespace": "simha"
           }
         },
@@ -1325,7 +1381,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "icondatepng6",
+            "name": "iconcompositionpng6",
             "namespace": "simha"
           }
         },
@@ -1334,5 +1390,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2LWAW"
+  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2XWAW"
 }

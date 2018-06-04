@@ -1,12 +1,12 @@
 {
   "allowPreview": true,
-  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM2FWAW&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM2OWAW&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
   "createdBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
     "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
   },
-  "createdDate": "2018-05-17T04:18:52.000Z",
+  "createdDate": "2018-05-17T04:18:54.000Z",
   "datasets": [
     {
       "id": "0Fb7F000000H66jSAC",
@@ -24,17 +24,17 @@
     "namespace": "simha",
     "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
   },
-  "id": "0FK7F000000GM2FWAW",
-  "label": "Dynamic Apps - Data  - Basic Filter",
-  "lastAccessedDate": "2018-06-04T10:23:51.000Z",
+  "id": "0FK7F000000GM2OWAW",
+  "label": "Dynamic Apps - Design - Reference Line",
+  "lastAccessedDate": "2018-06-04T10:23:54.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
     "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
   },
-  "lastModifiedDate": "2018-05-17T04:18:59.000Z",
+  "lastModifiedDate": "2018-05-17T04:19:02.000Z",
   "mobileDisabled": false,
-  "name": "Dynamic_Apps_Data_Basic_Filter15253301119482",
+  "name": "Dynamic_Apps_Design_Reference_Line3",
   "namespace": "simha",
   "permissions": {
     "manage": true,
@@ -53,7 +53,7 @@
         "pages": [
           {
             "label": "Untitled",
-            "name": "d2040bc6-9405-4c74-b428-7a1ede091737",
+            "name": "eaf6e258-c2c2-4ca4-97f9-2d9cb8cf9b0b",
             "widgets": [
               {
                 "colspan": 2,
@@ -118,7 +118,7 @@
                 "row": 42,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
+                  "backgroundColor": "#F2F6FA",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -210,41 +210,11 @@
                 }
               },
               {
-                "colspan": 18,
-                "column": 8,
-                "name": "chart_1",
-                "row": 25,
-                "rowspan": 14,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
-                  "borderColor": "#5C7A99",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 14,
-                "column": 8,
-                "name": "number_1",
-                "row": 40,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
-                  "borderColor": "#5C7A99",
-                  "borderEdges": [
-                    "top"
-                  ],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
                 "colspan": 20,
                 "column": 7,
                 "name": "container_2",
-                "row": 23,
-                "rowspan": 31,
+                "row": 21,
+                "rowspan": 40,
                 "widgetStyle": {
                   "backgroundColor": "rgb(225, 243, 251)",
                   "borderColor": "#E6ECF2",
@@ -274,7 +244,7 @@
                 "column": 28,
                 "name": "text_9",
                 "row": 19,
-                "rowspan": 48,
+                "rowspan": 55,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
@@ -287,7 +257,7 @@
                 "colspan": 4,
                 "column": 7,
                 "name": "text_17",
-                "row": 56,
+                "row": 63,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "#FFFFFF",
@@ -303,7 +273,7 @@
                 "colspan": 15,
                 "column": 12,
                 "name": "text_18",
-                "row": 56,
+                "row": 63,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "#FFFFFF",
@@ -317,7 +287,7 @@
                 "colspan": 15,
                 "column": 12,
                 "name": "text_20",
-                "row": 63,
+                "row": 70,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "#FFFFFF",
@@ -331,8 +301,8 @@
                 "colspan": 20,
                 "column": 7,
                 "name": "container_4",
-                "row": 69,
-                "rowspan": 17,
+                "row": 76,
+                "rowspan": 16,
                 "widgetStyle": {
                   "backgroundColor": "rgb(250, 247, 245)",
                   "borderEdges": []
@@ -342,7 +312,7 @@
                 "colspan": 4,
                 "column": 7,
                 "name": "text_21",
-                "row": 63,
+                "row": 70,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "#FFFFFF",
@@ -355,10 +325,10 @@
                 }
               },
               {
-                "colspan": 15,
+                "colspan": 16,
                 "column": 7,
                 "name": "text_22",
-                "row": 72,
+                "row": 79,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgb(250, 247, 245)",
@@ -372,8 +342,8 @@
                 "colspan": 20,
                 "column": 7,
                 "name": "text_23",
-                "row": 76,
-                "rowspan": 9,
+                "row": 83,
+                "rowspan": 7,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
@@ -387,7 +357,7 @@
                 "column": 0,
                 "name": "container_6",
                 "row": 11,
-                "rowspan": 79,
+                "rowspan": 85,
                 "widgetStyle": {
                   "backgroundColor": "rgb(244, 246, 249)",
                   "borderColor": "#E6ECF2",
@@ -400,7 +370,7 @@
                 "colspan": 20,
                 "column": 7,
                 "name": "container_7",
-                "row": 55,
+                "row": 62,
                 "rowspan": 6,
                 "widgetStyle": {
                   "backgroundColor": "rgba(2, 34, 66, 0)",
@@ -416,7 +386,7 @@
                 "colspan": 20,
                 "column": 7,
                 "name": "container_8",
-                "row": 62,
+                "row": 69,
                 "rowspan": 6,
                 "widgetStyle": {
                   "backgroundColor": "rgba(2, 34, 66, 0)",
@@ -432,7 +402,7 @@
                 "colspan": 19,
                 "column": 7,
                 "name": "text_3",
-                "row": 69,
+                "row": 76,
                 "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "rgb(237, 235, 232)",
@@ -446,7 +416,7 @@
                 "colspan": 1,
                 "column": 26,
                 "name": "image_7",
-                "row": 69,
+                "row": 76,
                 "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "rgb(237, 235, 232)",
@@ -494,7 +464,7 @@
                 "row": 26,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "backgroundColor": "#FFFFFF",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -508,7 +478,7 @@
                 "row": 26,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "backgroundColor": "#FFFFFF",
                   "borderColor": "rgb(216, 221, 230)",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -562,7 +532,7 @@
                 "column": 7,
                 "name": "container_3",
                 "row": 14,
-                "rowspan": 8,
+                "rowspan": 6,
                 "widgetStyle": {
                   "backgroundColor": "rgb(225, 243, 251)",
                   "borderColor": "#E6ECF2",
@@ -576,7 +546,7 @@
                 "column": 7,
                 "name": "text_14",
                 "row": 15,
-                "rowspan": 6,
+                "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(2, 34, 66, 0)",
                   "borderColor": "rgb(22, 50, 92)",
@@ -592,7 +562,7 @@
                 "column": 12,
                 "name": "text_15",
                 "row": 15,
-                "rowspan": 6,
+                "rowspan": 4,
                 "widgetStyle": {
                   "borderEdges": []
                 }
@@ -604,7 +574,7 @@
                 "row": 22,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "backgroundColor": "#F2F6FA",
                   "borderColor": "rgb(216, 221, 230)",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -632,11 +602,51 @@
                 "row": 42,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "rgb(216, 221, 230)",
                   "borderEdges": [],
                   "borderRadius": 0,
                   "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 7,
+                "column": 19,
+                "name": "number_1",
+                "row": 23,
+                "rowspan": 6,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 10,
+                "column": 8,
+                "name": "listselector_1",
+                "row": 25,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "chart_1",
+                "row": 30,
+                "rowspan": 20,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 7,
+                "column": 8,
+                "name": "text_4",
+                "row": 23,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "borderEdges": []
                 }
               },
               {
@@ -654,35 +664,9 @@
                 }
               },
               {
-                "colspan": 11,
-                "column": 28,
-                "name": "text_4",
-                "row": 69,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(250, 247, 245)",
-                  "borderColor": "rgb(237, 235, 232)",
-                  "borderEdges": [
-                    "top"
-                  ],
-                  "borderRadius": 0,
-                  "borderWidth": 2
-                }
-              },
-              {
-                "colspan": 11,
-                "column": 28,
-                "name": "text_5",
-                "row": 74,
-                "rowspan": 11,
-                "widgetStyle": {
-                  "borderEdges": []
-                }
-              },
-              {
                 "colspan": 2,
                 "column": 0,
-                "name": "image_4",
+                "name": "image_3",
                 "row": 50,
                 "rowspan": 4,
                 "widgetStyle": {
@@ -692,7 +676,7 @@
               {
                 "colspan": 2,
                 "column": 0,
-                "name": "image_5",
+                "name": "image_4",
                 "row": 54,
                 "rowspan": 4,
                 "widgetStyle": {
@@ -722,7 +706,7 @@
               {
                 "colspan": 2,
                 "column": 0,
-                "name": "image_3",
+                "name": "image_5",
                 "row": 34,
                 "rowspan": 4,
                 "widgetStyle": {
@@ -748,7 +732,7 @@
     ],
     "layouts": [],
     "steps": {
-      "StageName_1": {
+      "Owner_Name_1": {
         "broadcastFacet": true,
         "datasets": [
           {
@@ -760,22 +744,18 @@
           }
         ],
         "isGlobal": false,
-        "label": "",
         "query": {
-          "query": "{&quot;measures&quot;:[[&quot;count&quot;,&quot;*&quot;]],&quot;limit&quot;:3,&quot;groups&quot;:[&quot;Stage&quot;],&quot;order&quot;:[[-1,{&quot;ascending&quot;:true}]]}",
+          "query": "{&quot;measures&quot;:[[&quot;count&quot;,&quot;*&quot;]],&quot;groups&quot;:[&quot;Opportunity_Owner&quot;]}",
           "version": -1
         },
         "receiveFacet": true,
-        "selectMode": "multi",
+        "selectMode": "single",
         "type": "aggregateflex",
-        "useGlobal": true,
-        "visualizationParameters": {
-          "options": {},
-          "visualizationType": "hbar"
-        }
+        "useGlobal": false,
+        "visualizationParameters": {}
       },
-      "all_1": {
-        "broadcastFacet": false,
+      "CloseDate_Year_Close_2": {
+        "broadcastFacet": true,
         "datasets": [
           {
             "id": "0Fb7F000000H66jSAC",
@@ -786,19 +766,31 @@
           }
         ],
         "isGlobal": false,
-        "label": "",
         "query": {
-          "query": "{&quot;measures&quot;:[[&quot;count&quot;,&quot;*&quot;]],&quot;filters&quot;:[[&quot;Stage&quot;,&quot;{{column(StageName_1.selection,[&#92;&quot;Stage&#92;&quot;]).asObject()}}&quot;,&quot;in&quot;]]}",
+          "query": "{&quot;measures&quot;:[[&quot;avg&quot;,&quot;Amount&quot;]],&quot;groups&quot;:[[&quot;Close_Date_Year&quot;,&quot;Close_Date_Month&quot;]]}",
           "version": -1
         },
-        "receiveFacet": false,
+        "receiveFacet": true,
         "selectMode": "single",
         "type": "aggregateflex",
         "useGlobal": true,
         "visualizationParameters": {
           "options": {},
-          "visualizationType": "hbar"
+          "visualizationType": "time"
         }
+      },
+      "all_1": {
+        "broadcastFacet": true,
+        "groups": [],
+        "label": "Amount Rounded",
+        "numbers": [],
+        "query": "q = load &quot;simha__Wave_Sample_Opportunities3&quot;;\nq = group q by all;\nq = foreach q generate round(avg(&#39;Amount&#39;)) as &#39;avg_Amount&#39;;",
+        "receiveFacet": true,
+        "selectMode": "single",
+        "strings": [],
+        "type": "saql",
+        "useGlobal": true,
+        "visualizationParameters": {}
       },
       "Binding_Value_1": {
         "broadcastFacet": false,
@@ -811,7 +803,7 @@
         "type": "staticflex",
         "useGlobal": false,
         "values": [
-          "{&quot;display&quot;:&quot;1&quot;,&quot;value&quot;:&quot;{{ column( StageName_1.selection, [&#92;&#92;&#92;&quot;Stage&#92;&#92;&#92;&quot;] ).asObject() }}&quot;}"
+          "{&quot;display&quot;:&quot;1&quot;,&quot;value&quot;:&quot;{{cell(all_1.result, 0, &#92;&#92;&#92;&quot;avg_Amount&#92;&#92;&#92;&quot;).asString()}}&quot;}"
         ]
       }
     },
@@ -928,7 +920,7 @@
       "text_15": {
         "parameters": {
           "fontSize": 16,
-          "text": "Build a binding to dynamically filter a total based on the selections. With selections, you&#39;ll need fewer filter widgets. Try it below!",
+          "text": "Build a binding that sets a reference line based on the average opportunity amount for all sale reps. Try it below!",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1025,19 +1017,10 @@
         },
         "type": "container"
       },
-      "text_5": {
-        "parameters": {
-          "fontSize": 14,
-          "text": "You can also use faceting to filter a step. Faceting is actually a lot easier to set up than bindings. However, sometimes you don’t want to filter a step based on all other faceted steps. You just want to filter it based on one other step. In this case, use a binding.",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
       "text_4": {
         "parameters": {
-          "fontSize": 20,
-          "text": "Did You Know?",
+          "fontSize": 14,
+          "text": "Sales Rep:",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1052,34 +1035,22 @@
         },
         "type": "text"
       },
+      "text_6": {
+        "parameters": {
+          "fontSize": 12,
+          "text": "DYNAMIC DATA",
+          "textAlignment": "left",
+          "textColor": "rgb(107, 109, 112)"
+        },
+        "type": "text"
+      },
       "chart_1": {
         "parameters": {
-          "autoFitMode": "fit",
           "totalValue": "computeTotal",
-          "showValues": true,
-          "bins": {
-            "breakpoints": {
-              "high": 100,
-              "low": 0
-            },
-            "bands": {
-              "high": {
-                "color": "#008000",
-                "label": ""
-              },
-              "low": {
-                "color": "#B22222",
-                "label": ""
-              },
-              "medium": {
-                "color": "#ffa500",
-                "label": ""
-              }
-            }
-          },
+          "showPoints": true,
           "legend": {
             "showHeader": true,
-            "show": false,
+            "show": true,
             "customSize": "auto",
             "position": "right-top",
             "inside": false
@@ -1094,16 +1065,25 @@
             "customizeTooltip": false,
             "dimensions": ""
           },
-          "visualizationType": "hbar",
+          "visualizationType": "time",
+          "missingValue": "connect",
+          "dashLine": {
+            "measures": "",
+            "showDashLine": false
+          },
+          "timeAxis": {
+            "showTitle": true,
+            "showAxis": true,
+            "title": ""
+          },
           "exploreLink": true,
           "title": {
             "fontSize": 14,
             "subtitleFontSize": 11,
-            "label": "Select one or more bars on the chart.",
-            "align": "left",
+            "label": "Timeline with Reference Line from Query 1",
+            "align": "center",
             "subtitleLabel": ""
           },
-          "binValues": false,
           "trellis": {
             "flipLabels": false,
             "showGridLines": true,
@@ -1117,6 +1097,8 @@
             "chartsPerLine": 4
           },
           "totalLabel": "",
+          "fillArea": true,
+          "showZero": true,
           "measureAxis2": {
             "sqrtScale": false,
             "showTitle": true,
@@ -1130,44 +1112,34 @@
             "sqrtScale": false,
             "showTitle": true,
             "showAxis": true,
+            "referenceLines": [
+              {
+                "color": "#9271E8",
+                "label": "Avg: {{cell(all_1.result, 0, &quot;avg_Amount&quot;).asString()}}",
+                "value": "{{cell(all_1.result, 0, &quot;avg_Amount&quot;).asString()}}"
+              }
+            ],
             "title": "",
             "customDomain": {
               "showDomain": false
             }
           },
+          "valueType": "none",
           "theme": "light",
-          "step": "StageName_1",
-          "dimensionAxis": {
-            "showTitle": true,
-            "customSize": "auto",
-            "showAxis": true,
-            "title": "",
-            "icons": {
-              "useIcons": false,
-              "iconProps": {
-                "fit": "cover",
-                "column": "",
-                "type": "round",
-                "parameters": {}
-              }
-            }
+          "step": "CloseDate_Year_Close_2",
+          "drawArea": {
+            "measure": "",
+            "showDrawArea": false,
+            "bounding1": "",
+            "bounding2": ""
           }
         },
         "type": "chart"
       },
-      "text_6": {
-        "parameters": {
-          "fontSize": 12,
-          "text": "DYNAMIC DATA",
-          "textAlignment": "left",
-          "textColor": "rgb(107, 109, 112)"
-        },
-        "type": "text"
-      },
       "text_9": {
         "parameters": {
           "fontSize": 14,
-          "text": "1) Create a chart widget (&quot;chart_1&quot;) with a step (&quot;StageName_1&quot;) that shows the number of opportunities grouped by each stage.\n\n2) Create a number widget (&quot;number_1&quot;) with a step (&quot;all_1&quot;) in compact form that calculates the total number of opportunities.\n\n3) To dynamically change the filter in the number widget based on the selected stage in the chart, bind the &quot;filters&quot; JSON property in the &quot;all_1&quot; step.\n\n&quot;filters&quot;: [\n   [\n      &quot;Stage&quot;,\n      &quot;{{cell( Binding_Value_1.result, 0, &quot;value&quot;).asObject()}}&quot;,\n      &quot;in&quot;\n   ]\n]\n\n4) VOILÀ! Click Done and you&#39;re ready to go.\n\nTo see how we created the widgets, steps, and binding in this dashboard, press Cmd+E for Mac or Ctrl+E for Windows, and search for them in the dashboard JSON.",
+          "text": "1) Create a number widget (&quot;number_1&quot;) with a step (&quot;all_1&quot;) that calculates the average opportunity amount.\n\n2) Create a timeline chart (&quot;chart_1&quot;) with a step (&quot;CloseDate_Year_Close_2&quot;) that groups the average opportunity amount by year and month.\n\n3) To dynamically set the reference line in the timeline chart based on the average amount in the &quot;all_1&quot; step, open the dashboard JSON and bind the &quot;value&quot; property in the chart widget (&quot;chart_1&quot;). To also show the average amount in the label, bind the &quot;label&quot; property, too.\n\n&quot;referenceLines&quot;: [\n   {\n      &quot;color&quot;: &quot;#9271E8&quot;,\n      &quot;value&quot;: &quot;{{ cell( Binding_Value_1.result, 0, &quot;value&quot;).asObject() }}&quot;\n      &quot;label&quot;: &quot;Avg: {{ cell( Binding_Value_1.result, 0, &quot;value&quot;).asObject() }}&quot;\n   }\n]\n\n4) VOILÀ! Click Done and you&#39;re ready to go.\n\nTo see how we created the widgets, steps, and binding in this dashboard, press Cmd+E for Mac or Ctrl+E for Windows, and search for them in the dashboard JSON.",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1203,7 +1175,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "icongrouppng3",
+            "name": "iconconditionalpng3",
             "namespace": "simha"
           }
         },
@@ -1215,7 +1187,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconmeasurepng3",
+            "name": "icongrouppng3",
             "namespace": "simha"
           }
         },
@@ -1258,12 +1230,12 @@
         "parameters": {
           "compact": false,
           "exploreLink": true,
-          "measureField": "count",
+          "measureField": "avg_Amount",
           "numberColor": "rgb(22, 50, 92)",
           "numberSize": 32,
           "step": "all_1",
-          "textAlignment": "center",
-          "title": "Filtered Results:",
+          "textAlignment": "right",
+          "title": "Query 1 Results",
           "titleColor": "rgb(22, 50, 92)",
           "titleSize": 14
         },
@@ -1287,7 +1259,7 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconconditionalpng3",
+            "name": "iconmeasurepng3",
             "namespace": "simha"
           }
         },
@@ -1343,11 +1315,7 @@
       },
       "link_3": {
         "parameters": {
-          "destinationLink": {
-            "name": "Dynamic_Apps_Design_Reference_Line3",
-            "namespace": "simha"
-          },
-          "destinationType": "dashboard",
+          "destinationType": "lens",
           "fontSize": 12,
           "includeState": false,
           "text": "REF. LINE",
@@ -1413,7 +1381,7 @@
       "text_20": {
         "parameters": {
           "fontSize": 14,
-          "text": "{{column(StageName_1.selection,[&quot;Stage&quot;]).asString()}}",
+          "text": "{{cell(all_1.result, 0, &quot;avg_Amount&quot;).asString()}}",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1422,7 +1390,7 @@
       "text_23": {
         "parameters": {
           "fontSize": 14,
-          "text": "1) column( StageName_1.selection, [&#92;&quot;Stage&#92;&quot;] ) returns the selected stage from the &quot;StageName_1&quot; step. Gets the value from the &quot;Stage&quot; column in the step selection.\n\n2) asObject() formats the results as an array of strings, which is the expected format in the dashboard JSON.",
+          "text": "1) cell(all_1.result, 0, &#92;&quot;avg_Amount&#92;&quot;) returns the resulting average amount from the &quot;all_1&quot; step. Gets the value from cell (first row, &quot;avg_Amount&quot; column) in the step results.\n\n2) asString() formats the result as a string, which is the expected format in the dashboard JSON.\n",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1469,7 +1437,11 @@
       },
       "link_6": {
         "parameters": {
-          "destinationType": "lens",
+          "destinationLink": {
+            "name": "Dynamic_Apps_Data_Basic_Filter15253301119482",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
           "text": "BASIC FILTER",
@@ -1477,9 +1449,20 @@
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
+      },
+      "listselector_1": {
+        "parameters": {
+          "compact": false,
+          "exploreLink": true,
+          "instant": true,
+          "measureField": "count",
+          "step": "Owner_Name_1",
+          "title": ""
+        },
+        "type": "listselector"
       }
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2FWAW"
+  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2OWAW"
 }

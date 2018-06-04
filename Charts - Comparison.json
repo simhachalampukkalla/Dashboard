@@ -1,6 +1,6 @@
 {
   "allowPreview": true,
-  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM28WAG&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM27WAG&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
   "createdBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -24,9 +24,9 @@
     "namespace": "simha",
     "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
   },
-  "id": "0FK7F000000GM28WAG",
-  "label": "Charts - Composition",
-  "lastAccessedDate": "2018-06-04T10:23:51.000Z",
+  "id": "0FK7F000000GM27WAG",
+  "label": "Charts - Comparison",
+  "lastAccessedDate": "2018-06-04T10:23:50.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -34,7 +34,7 @@
   },
   "lastModifiedDate": "2018-05-17T04:18:58.000Z",
   "mobileDisabled": false,
-  "name": "Charts_Composition1525415081853",
+  "name": "Charts_Comparison1525415081839",
   "namespace": "simha",
   "permissions": {
     "manage": true,
@@ -53,7 +53,7 @@
         "pages": [
           {
             "label": "Untitled",
-            "name": "ef8d6803-9cc9-47bb-975d-1115a48339fd",
+            "name": "dd6cdb41-7002-4342-bad1-aac226aebe85",
             "widgets": [
               {
                 "colspan": 3,
@@ -132,7 +132,7 @@
                 "row": 34,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -182,13 +182,83 @@
                 }
               },
               {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_11",
+                "row": 30,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_12",
+                "row": 34,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_13",
+                "row": 38,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_14",
+                "row": 46,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_15",
+                "row": 42,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
                 "colspan": 2,
                 "column": 0,
                 "name": "image_8",
                 "row": 22,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
+                  "backgroundColor": "#FFFFFF",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -196,11 +266,25 @@
                 }
               },
               {
+                "colspan": 4,
+                "column": 2,
+                "name": "text_13",
+                "row": 22,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "rgb(0, 112, 210)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 4
+                }
+              },
+              {
                 "colspan": 11,
                 "column": 28,
                 "name": "text_6",
                 "row": 14,
-                "rowspan": 3,
+                "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgb(250, 247, 245)",
                   "borderColor": "rgb(237, 235, 232)",
@@ -215,8 +299,8 @@
                 "colspan": 11,
                 "column": 28,
                 "name": "text_3",
-                "row": 17,
-                "rowspan": 28,
+                "row": 18,
+                "rowspan": 7,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
@@ -229,8 +313,8 @@
                 "colspan": 11,
                 "column": 28,
                 "name": "text_7",
-                "row": 45,
-                "rowspan": 3,
+                "row": 27,
+                "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgb(250, 247, 245)",
                   "borderColor": "rgb(237, 235, 232)",
@@ -245,8 +329,8 @@
                 "colspan": 11,
                 "column": 28,
                 "name": "text_8",
-                "row": 48,
-                "rowspan": 26,
+                "row": 31,
+                "rowspan": 32,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
@@ -259,7 +343,7 @@
                 "colspan": 9,
                 "column": 29,
                 "name": "link_10",
-                "row": 89,
+                "row": 78,
                 "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "rgb(0, 112, 210)",
@@ -284,13 +368,27 @@
                 }
               },
               {
-                "colspan": 17,
+                "colspan": 4,
+                "column": 2,
+                "name": "link_1",
+                "row": 26,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 9,
                 "column": 8,
                 "name": "text_9",
                 "row": 23,
                 "rowspan": 3,
                 "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderEdges": []
                 }
               },
@@ -299,10 +397,49 @@
                 "column": 8,
                 "name": "text_11",
                 "row": 26,
-                "rowspan": 4,
+                "rowspan": 2,
                 "widgetStyle": {
                   "backgroundColor": "rgba(9, 26, 62, 0)",
                   "borderColor": "#FFFFFF",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "chart_1",
+                "row": 29,
+                "rowspan": 30,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(9, 26, 62, 0)",
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 8,
+                "name": "text_5",
+                "row": 60,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(2, 34, 66, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "pillbox_2",
+                "row": 63,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
                   "borderWidth": 1
@@ -313,7 +450,7 @@
                 "column": 7,
                 "name": "container_2",
                 "row": 21,
-                "rowspan": 72,
+                "rowspan": 61,
                 "widgetStyle": {
                   "backgroundColor": "rgb(225, 243, 251)",
                   "borderColor": "#E6ECF2",
@@ -356,7 +493,7 @@
                 "colspan": 11,
                 "column": 28,
                 "name": "text_14",
-                "row": 78,
+                "row": 67,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -370,8 +507,8 @@
                 "colspan": 11,
                 "column": 28,
                 "name": "text_15",
-                "row": 82,
-                "rowspan": 7,
+                "row": 71,
+                "rowspan": 6,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
@@ -385,7 +522,7 @@
                 "column": 0,
                 "name": "container_6",
                 "row": 11,
-                "rowspan": 138,
+                "rowspan": 73,
                 "widgetStyle": {
                   "backgroundColor": "rgb(244, 246, 249)",
                   "borderColor": "#E6ECF2",
@@ -412,7 +549,7 @@
                 "colspan": 11,
                 "column": 28,
                 "name": "container_3",
-                "row": 75,
+                "row": 64,
                 "rowspan": 18,
                 "widgetStyle": {
                   "backgroundColor": "rgb(250, 247, 245)",
@@ -426,7 +563,7 @@
                 "colspan": 1,
                 "column": 38,
                 "name": "image_7",
-                "row": 75,
+                "row": 64,
                 "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "rgb(237, 235, 232)",
@@ -440,7 +577,7 @@
                 "colspan": 10,
                 "column": 28,
                 "name": "text_16",
-                "row": 75,
+                "row": 64,
                 "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "rgb(237, 235, 232)",
@@ -457,7 +594,7 @@
                 "row": 14,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
+                  "backgroundColor": "rgba(242, 246, 250, 0)",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -471,7 +608,7 @@
                 "row": 19,
                 "rowspan": 3,
                 "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
+                  "backgroundColor": "rgba(242, 246, 250, 0)",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -482,247 +619,14 @@
                 "colspan": 4,
                 "column": 2,
                 "name": "link_2",
-                "row": 22,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_3",
-                "row": 26,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_4",
-                "row": 30,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_5",
-                "row": 34,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_6",
-                "row": 42,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_7",
-                "row": 46,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_9",
                 "row": 14,
                 "rowspan": 4,
                 "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 4,
-                "column": 2,
-                "name": "link_11",
-                "row": 38,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "#F2F6FA",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 11,
-                "column": 7,
-                "name": "text_12",
-                "row": 94,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(250, 247, 245)",
-                  "borderColor": "rgb(237, 235, 232)",
-                  "borderEdges": [
-                    "top"
-                  ],
-                  "borderRadius": 0,
-                  "borderWidth": 2
-                }
-              },
-              {
-                "colspan": 11,
-                "column": 7,
-                "name": "text_13",
-                "row": 99,
-                "rowspan": 30,
-                "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 8,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 11,
-                "column": 7,
-                "name": "text_18",
-                "row": 130,
-                "rowspan": 4,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(250, 247, 245)",
-                  "borderColor": "rgb(237, 235, 232)",
-                  "borderEdges": [
-                    "top"
-                  ],
-                  "borderRadius": 0,
-                  "borderWidth": 2
-                }
-              },
-              {
-                "colspan": 11,
-                "column": 7,
-                "name": "text_19",
-                "row": 134,
-                "rowspan": 14,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "#E6ECF2",
+                  "borderColor": "rgb(216, 221, 230)",
                   "borderEdges": [],
                   "borderRadius": 0,
                   "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 20,
-                "column": 19,
-                "name": "container_4",
-                "row": 95,
-                "rowspan": 53,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(225, 243, 251)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 8,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 17,
-                "column": 20,
-                "name": "text_20",
-                "row": 97,
-                "rowspan": 3,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 18,
-                "column": 20,
-                "name": "text_21",
-                "row": 100,
-                "rowspan": 5,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(9, 26, 62, 0)",
-                  "borderColor": "#FFFFFF",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 18,
-                "column": 20,
-                "name": "chart_1",
-                "row": 105,
-                "rowspan": 29,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 18,
-                "column": 8,
-                "name": "chart_2",
-                "row": 30,
-                "rowspan": 34,
-                "widgetStyle": {
-                  "backgroundColor": "rgba(2, 34, 66, 0)",
-                  "borderEdges": []
-                }
-              },
-              {
-                "colspan": 18,
-                "column": 8,
-                "name": "pillbox_1",
-                "row": 66,
-                "rowspan": 3,
-                "widgetStyle": {
-                  "backgroundColor": "#FFFFFF",
-                  "borderEdges": []
                 }
               }
             ]
@@ -733,7 +637,7 @@
         "style": {
           "alignmentX": "left",
           "alignmentY": "top",
-          "backgroundColor": "#FFFFFF",
+          "backgroundColor": "rgb(255, 255, 255)",
           "cellSpacingX": 0,
           "cellSpacingY": 0,
           "fit": "original",
@@ -744,107 +648,41 @@
     ],
     "layouts": [],
     "steps": {
-      "Grouping___Composion_1": {
+      "Grouping___Compariso_1": {
         "broadcastFacet": false,
         "groups": [],
         "isGlobal": false,
-        "label": "Grouping - Composion",
+        "label": "Grouping - Comparison 1 Measure",
         "numbers": [],
         "selectMode": "singlerequired",
-        "start": "{&quot;display&quot;:[&quot;Donut Chart&quot;]}",
+        "start": "{&quot;display&quot;:[&quot;Top&quot;]}",
         "strings": [],
         "type": "staticflex",
         "useGlobal": false,
         "values": [
-          "{&quot;display&quot;:&quot;Donut Chart&quot;,&quot;visualizationType&quot;:&quot;pie&quot;,&quot;inner&quot;:70}",
-          "{&quot;display&quot;:&quot;Pie Chart&quot;,&quot;visualizationType&quot;:&quot;pie&quot;,&quot;inner&quot;:0}",
-          "{&quot;display&quot;:&quot;Treemap&quot;,&quot;visualizationType&quot;:&quot;treemap&quot;,&quot;inner&quot;:70}"
+          "{&quot;display&quot;:&quot;Top&quot;,&quot;value&quot;:false}",
+          "{&quot;display&quot;:&quot;Worst&quot;,&quot;value&quot;:true}"
         ]
       },
-      "Product_Family_Produ_1": {
-        "broadcastFacet": true,
-        "datasets": [
-          {
-            "id": "0Fb7F000000H66jSAC",
-            "label": "Wave_Sample_Opportunities",
-            "name": "Wave_Sample_Opportunities3",
-            "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
-          }
-        ],
+      "Vis___Compariso_1": {
+        "broadcastFacet": false,
+        "groups": [],
         "isGlobal": false,
-        "query": {
-          "query": "{&quot;measures&quot;:[[&quot;sum&quot;,&quot;Amount&quot;]],&quot;groups&quot;:[&quot;Product_Family&quot;,&quot;Product_Name&quot;]}",
-          "version": -1
-        },
-        "receiveFacet": true,
-        "selectMode": "single",
-        "type": "aggregateflex",
-        "useGlobal": true,
-        "visualizationParameters": {
-          "parameters": {
-            "autoFitMode": "none",
-            "showValues": true,
-            "measureAxis2": {
-              "sqrtScale": false,
-              "showTitle": true,
-              "showAxis": true,
-              "title": "",
-              "customDomain": {
-                "showDomain": false
-              }
-            },
-            "legend": {
-              "showHeader": true,
-              "show": true,
-              "customSize": "auto",
-              "position": "right-top",
-              "inside": false
-            },
-            "axisMode": "multi",
-            "measureAxis1": {
-              "sqrtScale": false,
-              "showTitle": true,
-              "showAxis": true,
-              "title": "",
-              "customDomain": {
-                "showDomain": false
-              }
-            },
-            "normalize": false,
-            "visualizationType": "stackhbar",
-            "theme": "wave",
-            "title": {
-              "label": "",
-              "align": "center",
-              "subtitleLabel": ""
-            },
-            "trellis": {
-              "flipLabels": false,
-              "showGridLines": true,
-              "enable": false,
-              "type": "x",
-              "chartsPerLine": 4
-            },
-            "dimensionAxis": {
-              "showTitle": true,
-              "customSize": "auto",
-              "showAxis": true,
-              "title": "",
-              "icons": {
-                "useIcons": false,
-                "iconProps": {
-                  "fit": "cover",
-                  "column": "",
-                  "type": "round"
-                }
-              }
-            }
-          },
-          "type": "chart"
-        }
+        "label": "Visualization - Comparison 1 Measure",
+        "numbers": [],
+        "selectMode": "singlerequired",
+        "start": "{&quot;display&quot;:[&quot;Bars&quot;]}",
+        "strings": [],
+        "type": "staticflex",
+        "useGlobal": false,
+        "values": [
+          "{&quot;display&quot;:&quot;Bars&quot;,&quot;value&quot;:&quot;hbar&quot;}",
+          "{&quot;display&quot;:&quot;Columns&quot;,&quot;value&quot;:&quot;vbar&quot;}",
+          "{&quot;display&quot;:&quot;Horizontal Dot Plot&quot;,&quot;value&quot;:&quot;hdot&quot;}",
+          "{&quot;display&quot;:&quot;Vertical Dot Plot&quot;,&quot;value&quot;:&quot;vdot&quot;}"
+        ]
       },
-      "Product_Family_1": {
+      "Product_Name_1": {
         "broadcastFacet": true,
         "datasets": [
           {
@@ -857,43 +695,16 @@
         ],
         "isGlobal": false,
         "query": {
-          "query": "{&quot;measures&quot;:[[&quot;sum&quot;,&quot;Amount&quot;]],&quot;groups&quot;:[&quot;Product_Family&quot;]}",
+          "query": "{&quot;measures&quot;:[[&quot;sum&quot;,&quot;Amount&quot;]],&quot;groups&quot;:[&quot;Product_Name&quot;],&quot;order&quot;:[[-1,{&quot;ascending&quot;:&quot;{{cell(Grouping___Compariso_1.selection, 0, &#92;&quot;value&#92;&quot;).asObject()}}&quot;}]]}",
           "version": -1
         },
         "receiveFacet": true,
-        "selectMode": "single",
+        "selectMode": "multi",
         "type": "aggregateflex",
         "useGlobal": true,
         "visualizationParameters": {
-          "parameters": {
-            "centerText": "",
-            "centerValueType": "number",
-            "legend": {
-              "showHeader": true,
-              "show": true,
-              "customSize": "auto",
-              "position": "right-top",
-              "inside": false
-            },
-            "showMeasureTitle": true,
-            "valueType": "compactNumber",
-            "visualizationType": "pie",
-            "theme": "wave",
-            "title": {
-              "label": "",
-              "align": "center",
-              "subtitleLabel": ""
-            },
-            "trellis": {
-              "flipLabels": false,
-              "showGridLines": true,
-              "enable": false,
-              "type": "x",
-              "chartsPerLine": 4
-            },
-            "inner": 60
-          },
-          "type": "chart"
+          "options": {},
+          "visualizationType": "hbar"
         }
       }
     },
@@ -905,15 +716,6 @@
       "borderWidth": 1
     },
     "widgets": {
-      "text_18": {
-        "parameters": {
-          "fontSize": 20,
-          "text": "Did You Know?",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
       "text_17": {
         "parameters": {
           "fontSize": 12,
@@ -923,14 +725,50 @@
         },
         "type": "text"
       },
-      "text_19": {
+      "link_14": {
         "parameters": {
-          "fontSize": 14,
-          "text": "We learned comparison charts are best when you have a single measure. If you add another measure, you simply get side-by-side graphs. It’s the same for stacked charts. \n\nStacked charts are perfect for two groupings, and can handle up to four. But watch out for visual clutter.",
+          "destinationLink": {
+            "name": "Charts_Location1525415081847",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "LOCATION",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
-        "type": "text"
+        "type": "link"
+      },
+      "link_15": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Metrics1525415081845",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "METRICS",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "link_12": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Composition1525415081853",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "COMPOSITION",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
       },
       "text_14": {
         "parameters": {
@@ -943,12 +781,27 @@
       },
       "text_13": {
         "parameters": {
-          "fontSize": 14,
-          "text": "For fancier occasions, serve a layer cake instead of donuts. \n\nStacked bar and column charts are the perfect way to compare values, while seeing the makeup within each group.\n\nIn the donut chart above, you see revenue by product family. This stacked bar chart shows revenue (measure) by product family (first grouping) broken down by product name (second grouping). Accessories are your top family, and cables are the biggest revenue driver. Hover to see details.\n\nHmm, it may be time to do a whitespace analysis to see where you can sell more cables….",
+          "fontSize": 12,
+          "text": "COMPARISON",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "text"
+      },
+      "link_13": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Distribution1525415081847",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "DISTRIBUTION",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
       },
       "link_10": {
         "parameters": {
@@ -974,43 +827,34 @@
         },
         "type": "text"
       },
-      "text_15": {
-        "parameters": {
-          "fontSize": 14,
-          "text": "The chart type toggle under the chart is a binding, which helps make apps more interactive. Want to create your own? Learn how!",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
       "link_11": {
         "parameters": {
           "destinationLink": {
-            "name": "Charts_Distribution1525415081847",
+            "name": "Charts_Relationship1525415081840",
             "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 12,
           "includeState": false,
-          "text": "DISTRIBUTION",
+          "text": "RELATIONSHIP",
           "textAlignment": "left",
-          "textColor": "#091A3E"
+          "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
       },
-      "text_10": {
+      "text_15": {
         "parameters": {
-          "fontSize": 16,
-          "text": "Click the toggle below the chart to see different chart types. Which one looks best to you?",
+          "fontSize": 14,
+          "text": "The chart type toggle below the chart is a binding, which helps make apps more interactive. Want to create your own? Learn how!",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
         "type": "text"
       },
-      "text_12": {
+      "text_10": {
         "parameters": {
-          "fontSize": 20,
-          "text": "Why Stacked Bar?",
+          "fontSize": 16,
+          "text": "Click the toggle below the chart to try out different chart types. Which one looks best to you?",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1019,7 +863,7 @@
       "text_11": {
         "parameters": {
           "fontSize": 16,
-          "text": "See the relative makeup of a measure, like revenue, by product family.",
+          "text": "Sorted bars help you quickly see top and bottom performers.",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1039,7 +883,7 @@
       },
       "container_2": {
         "parameters": {
-          "alignmentX": "left",
+          "alignmentX": "center",
           "alignmentY": "bottom",
           "fit": "fitwidth",
           "image": {
@@ -1057,22 +901,10 @@
         },
         "type": "container"
       },
-      "container_4": {
-        "parameters": {
-          "alignmentX": "left",
-          "alignmentY": "bottom",
-          "fit": "fitwidth",
-          "image": {
-            "name": "bgfooterjpg13",
-            "namespace": "simha"
-          }
-        },
-        "type": "container"
-      },
       "text_3": {
         "parameters": {
           "fontSize": 14,
-          "text": "There’s a time and place for donuts. And pies. And delicious treemaps. Use composition charts to see the relative makeup of a single measure across a single group. \n\nWith composition charts, you may be more interested in percentage than individual values. \n\nBe reasonable about the number of wedges. More than 20? Use a bar chart. Our eyes can’t discern area differences as well as height or length. \n\nThis example shows revenue by product family. You quickly see Accessories and Laptops are raking it in. Nice!",
+          "text": "No one likes to lose. Comparison charts make it easy to see who’s winning, and who’s not. In this example, books are crushing space phones. Is that a concern? Depends… what’s a space phone?",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1092,6 +924,15 @@
           "text": "Learn which chart types are best for visualizing your data",
           "textAlignment": "center",
           "textColor": "#FFFFFF"
+        },
+        "type": "text"
+      },
+      "text_5": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "works with:",
+          "textAlignment": "left",
+          "textColor": "rgb(2, 34, 66)"
         },
         "type": "text"
       },
@@ -1121,126 +962,9 @@
         },
         "type": "text"
       },
-      "chart_2": {
-        "parameters": {
-          "autoFitMode": "keepLabels",
-          "centerText": "",
-          "totalValue": "computeTotal",
-          "showValues": true,
-          "bins": {
-            "breakpoints": {
-              "high": 100,
-              "low": 0
-            },
-            "bands": {
-              "high": {
-                "color": "#008000",
-                "label": ""
-              },
-              "low": {
-                "color": "#B22222",
-                "label": ""
-              },
-              "medium": {
-                "color": "#ffa500",
-                "label": ""
-              }
-            }
-          },
-          "legend": {
-            "showHeader": true,
-            "show": true,
-            "customSize": "auto",
-            "position": "right-top",
-            "inside": false
-          },
-          "showMeasureTitle": true,
-          "axisMode": "multi",
-          "tooltip": {
-            "showBinLabel": true,
-            "measures": "",
-            "showPercentage": true,
-            "showDimensions": true,
-            "showMeasures": true,
-            "customizeTooltip": false,
-            "dimensions": ""
-          },
-          "visualizationType": "{{cell(Grouping___Composion_1.selection, 0, &quot;visualizationType&quot;).asObject()}}",
-          "exploreLink": true,
-          "title": {
-            "fontSize": 14,
-            "subtitleFontSize": 11,
-            "label": "",
-            "align": "center",
-            "subtitleLabel": ""
-          },
-          "binValues": false,
-          "trellis": {
-            "flipLabels": false,
-            "showGridLines": true,
-            "size": [
-              100,
-              100
-            ],
-            "enable": false,
-            "type": "x",
-            "parameters": {},
-            "chartsPerLine": 4
-          },
-          "inner": "{{cell(Grouping___Composion_1.selection, 0, &quot;inner&quot;).asObject()}}",
-          "totalLabel": "",
-          "centerValueType": "number",
-          "measureAxis2": {
-            "sqrtScale": false,
-            "showTitle": true,
-            "showAxis": true,
-            "title": "",
-            "customDomain": {
-              "showDomain": false
-            }
-          },
-          "measureAxis1": {
-            "sqrtScale": false,
-            "showTitle": true,
-            "showAxis": true,
-            "title": "",
-            "customDomain": {
-              "showDomain": false
-            }
-          },
-          "valueType": "compactNumber",
-          "theme": "light",
-          "step": "Product_Family_1",
-          "dimensionAxis": {
-            "showTitle": true,
-            "customSize": "auto",
-            "showAxis": true,
-            "title": "",
-            "icons": {
-              "useIcons": false,
-              "iconProps": {
-                "fit": "cover",
-                "column": "",
-                "type": "round",
-                "parameters": {}
-              }
-            }
-          }
-        },
-        "type": "chart"
-      },
-      "text_6": {
-        "parameters": {
-          "fontSize": 20,
-          "text": "Why Composition Charts?",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
       "chart_1": {
         "parameters": {
-          "autoFitMode": "fit",
+          "autoFitMode": "keepLabels",
           "totalValue": "computeTotal",
           "showValues": true,
           "bins": {
@@ -1280,7 +1004,7 @@
             "customizeTooltip": false,
             "dimensions": ""
           },
-          "visualizationType": "stackhbar",
+          "visualizationType": "{{cell(Vis___Compariso_1.selection, 0, &quot;value&quot;).asObject()}}",
           "exploreLink": true,
           "title": {
             "fontSize": 14,
@@ -1321,9 +1045,8 @@
               "showDomain": false
             }
           },
-          "normalize": false,
+          "step": "Product_Name_1",
           "theme": "light",
-          "step": "Product_Family_Produ_1",
           "dimensionAxis": {
             "showTitle": true,
             "customSize": "auto",
@@ -1342,10 +1065,19 @@
         },
         "type": "chart"
       },
+      "text_6": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "Why Comparison Charts?",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
       "text_9": {
         "parameters": {
           "fontSize": 20,
-          "text": "See What You&#39;re Made Of",
+          "text": "See Who&#39;s Measuring Up",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1354,7 +1086,7 @@
       "text_8": {
         "parameters": {
           "fontSize": 14,
-          "text": "A pie is a donut with no hole. Set Center Size to 0% in Donut Chart properties.\n\nHave two groupings? Set Show as Trellis in Trellis properties to make mini donuts. For example, if your first grouping is Product Family, and your second is Product Name, you see a mini donut for each family, with products as wedges. You can have three groupings using trellis, but that’s a lot of mini donuts….\n\nTreemaps are great for showing actual spatial composition (like square footage), as well as relative makeup.",
+          "text": "The humble bar chart is the workhorse of analytics. Pie charts may have pretty colors, but our eyes can’t discern area differences as well as height or length. Bars are often the best choice for comparison, while pies are better for composition.\n\nFor leaderboards, sort descending. Did you know you can add Chatter icons to charts? Find out more in the “Add Icons to Analytics Charts” help topic.\n\nComparison charts are best when you have a single measure. If you add another measure, you simply get side-by-side graphs. If you add another group, it can look a little weird. Usually best to use stacked bar or stacked column for multiple groups.",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -1441,7 +1173,7 @@
         },
         "type": "image"
       },
-      "link_3": {
+      "link_1": {
         "parameters": {
           "destinationLink": {
             "name": "Charts_Trending1525415081841",
@@ -1452,59 +1184,11 @@
           "includeState": false,
           "text": "TRENDING",
           "textAlignment": "left",
-          "textColor": "#091A3E"
-        },
-        "type": "link"
-      },
-      "link_4": {
-        "parameters": {
-          "destinationLink": {
-            "name": "Charts_Relationship1525415081840",
-            "namespace": "simha"
-          },
-          "destinationType": "dashboard",
-          "fontSize": 12,
-          "includeState": false,
-          "text": "RELATIONSHIP",
-          "textAlignment": "left",
-          "textColor": "#091A3E"
+          "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
       },
       "link_2": {
-        "parameters": {
-          "destinationLink": {
-            "name": "Charts_Comparison1525415081839",
-            "namespace": "simha"
-          },
-          "destinationType": "dashboard",
-          "fontSize": 12,
-          "includeState": false,
-          "text": "COMPARISON",
-          "textAlignment": "left",
-          "textColor": "#091A3E"
-        },
-        "type": "link"
-      },
-      "text_21": {
-        "parameters": {
-          "fontSize": 16,
-          "text": "Get a more detailed view across multiple groupings with stacked bar and column charts. ",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
-      "text_20": {
-        "parameters": {
-          "fontSize": 20,
-          "text": "Stack to Compare and Compose",
-          "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)"
-        },
-        "type": "text"
-      },
-      "link_9": {
         "parameters": {
           "destinationLink": {
             "name": "Charts_Introduction15253306330156",
@@ -1515,24 +1199,17 @@
           "includeState": false,
           "text": "INTRODUCTION",
           "textAlignment": "left",
-          "textColor": "#091A3E"
+          "textColor": "rgb(22, 50, 92)"
         },
         "type": "link"
       },
-      "link_7": {
+      "pillbox_2": {
         "parameters": {
-          "destinationLink": {
-            "name": "Charts_Location1525415081847",
-            "namespace": "simha"
-          },
-          "destinationType": "dashboard",
-          "fontSize": 12,
-          "includeState": false,
-          "text": "LOCATION",
-          "textAlignment": "left",
-          "textColor": "#091A3E"
+          "compact": false,
+          "exploreLink": true,
+          "step": "Vis___Compariso_1"
         },
-        "type": "link"
+        "type": "pillbox"
       },
       "link_8": {
         "parameters": {
@@ -1546,41 +1223,6 @@
           "text": "HOME",
           "textAlignment": "left",
           "textColor": "#FFFFFF"
-        },
-        "type": "link"
-      },
-      "pillbox_1": {
-        "parameters": {
-          "compact": false,
-          "exploreLink": true,
-          "measureField": "inner",
-          "step": "Grouping___Composion_1"
-        },
-        "type": "pillbox"
-      },
-      "link_5": {
-        "parameters": {
-          "destinationType": "lens",
-          "fontSize": 12,
-          "includeState": false,
-          "text": "COMPOSITION",
-          "textAlignment": "left",
-          "textColor": "#091A3E"
-        },
-        "type": "link"
-      },
-      "link_6": {
-        "parameters": {
-          "destinationLink": {
-            "name": "Charts_Metrics1525415081845",
-            "namespace": "simha"
-          },
-          "destinationType": "dashboard",
-          "fontSize": 12,
-          "includeState": false,
-          "text": "METRICS",
-          "textAlignment": "left",
-          "textColor": "#091A3E"
         },
         "type": "link"
       },
@@ -1623,5 +1265,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM28WAG"
+  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM27WAG"
 }

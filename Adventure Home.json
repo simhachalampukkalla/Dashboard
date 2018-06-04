@@ -1,33 +1,42 @@
 {
   "allowPreview": true,
-  "assetSharingUrl": "https://puttupu-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F00000077DGWAY&orgId=00D7F000001bjDF&loginHost=ap5.salesforce.com&urlType=sharing",
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM2QWAW&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
   "createdBy": {
-    "id": "0057F000000r9JdQAI",
-    "name": "prp pradeep",
-    "profilePhotoUrl": "https://puttupu-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
   },
-  "createdDate": "2018-03-01T05:43:47.000Z",
+  "createdDate": "2018-05-17T04:18:55.000Z",
   "datasets": [],
-  "files": [],
+  "files": [
+    {
+      "contentType": "image/png",
+      "fileLength": 22594,
+      "fileName": "assetPreviewThumb",
+      "id": "0FJ7F000000Gze7WAC",
+      "lastModifiedDate": "2018-05-17T04:20:53.000Z",
+      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2QWAW/files/0FJ7F000000Gze7WAC"
+    }
+  ],
   "folder": {
-    "id": "00l7F000000e8XuQAI",
-    "label": "Simha_TestApp",
-    "name": "Simha_TestApp",
-    "namespace": "puttupu",
-    "url": "/services/data/v41.0/wave/folders/00l7F000000e8XuQAI"
+    "id": "00l7F000000ilbdQAA",
+    "label": "Einstein Analytics Learning Adventure",
+    "name": "Einstein_Analytics_Learning_Adventure",
+    "namespace": "simha",
+    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
   },
-  "id": "0FK7F00000077DGWAY",
+  "id": "0FK7F000000GM2QWAW",
   "label": "Adventure Home",
-  "lastAccessedDate": "2018-03-01T05:43:47.000Z",
+  "lastAccessedDate": "2018-06-04T10:46:26.000Z",
   "lastModifiedBy": {
-    "id": "0057F000000r9JdQAI",
-    "name": "prp pradeep",
-    "profilePhotoUrl": "https://puttupu-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
   },
-  "lastModifiedDate": "2018-03-01T05:43:47.000Z",
+  "lastModifiedDate": "2018-05-17T04:19:02.000Z",
   "mobileDisabled": false,
-  "name": "Adventure_Home1519882660224",
-  "namespace": "puttupu",
+  "name": "Adventure_Home15253306329574",
+  "namespace": "simha",
   "permissions": {
     "manage": true,
     "modify": true,
@@ -50,8 +59,8 @@
                 "colspan": 17,
                 "column": 2,
                 "name": "container_5",
-                "row": 39,
-                "rowspan": 17,
+                "row": 41,
+                "rowspan": 19,
                 "widgetStyle": {
                   "backgroundColor": "rgb(225, 243, 251)",
                   "borderColor": "rgba(9, 26, 62, 0)",
@@ -64,7 +73,7 @@
                 "colspan": 4,
                 "column": 15,
                 "name": "image_5",
-                "row": 40,
+                "row": 42,
                 "rowspan": 5,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -78,8 +87,8 @@
                 "colspan": 4,
                 "column": 15,
                 "name": "image_6",
-                "row": 48,
-                "rowspan": 8,
+                "row": 50,
+                "rowspan": 10,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
@@ -92,7 +101,7 @@
                 "colspan": 12,
                 "column": 3,
                 "name": "text_18",
-                "row": 43,
+                "row": 45,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -106,8 +115,8 @@
                 "colspan": 17,
                 "column": 21,
                 "name": "container_6",
-                "row": 39,
-                "rowspan": 17,
+                "row": 41,
+                "rowspan": 19,
                 "widgetStyle": {
                   "backgroundColor": "rgb(225, 243, 251)",
                   "borderColor": "#091A3E",
@@ -120,7 +129,7 @@
                 "colspan": 4,
                 "column": 34,
                 "name": "image_7",
-                "row": 40,
+                "row": 42,
                 "rowspan": 5,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -134,7 +143,7 @@
                 "colspan": 12,
                 "column": 22,
                 "name": "text_20",
-                "row": 43,
+                "row": 45,
                 "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -148,8 +157,8 @@
                 "colspan": 4,
                 "column": 34,
                 "name": "image_8",
-                "row": 48,
-                "rowspan": 8,
+                "row": 50,
+                "rowspan": 10,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
@@ -190,7 +199,7 @@
                 "colspan": 9,
                 "column": 22,
                 "name": "link_9",
-                "row": 40,
+                "row": 42,
                 "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -204,7 +213,7 @@
                 "colspan": 11,
                 "column": 3,
                 "name": "link_11",
-                "row": 40,
+                "row": 42,
                 "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
@@ -233,7 +242,7 @@
                 "column": 2,
                 "name": "container_3",
                 "row": 9,
-                "rowspan": 27,
+                "rowspan": 28,
                 "widgetStyle": {
                   "backgroundColor": "rgba(8, 30, 41, 0.75)",
                   "borderColor": "#E6ECF2",
@@ -247,23 +256,9 @@
                 "column": 7,
                 "name": "container_1",
                 "row": 4,
-                "rowspan": 5,
+                "rowspan": 4,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
-                  "borderColor": "#E6ECF2",
-                  "borderEdges": [],
-                  "borderRadius": 0,
-                  "borderWidth": 1
-                }
-              },
-              {
-                "colspan": 36,
-                "column": 2,
-                "name": "container_8",
-                "row": 63,
-                "rowspan": 5,
-                "widgetStyle": {
-                  "backgroundColor": "rgb(3, 30, 41)",
                   "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
@@ -274,11 +269,93 @@
                 "colspan": 10,
                 "column": 3,
                 "name": "link_1",
-                "row": 30,
+                "row": 31,
                 "rowspan": 3,
                 "widgetStyle": {
                   "backgroundColor": "rgba(8, 30, 41, 0.75)",
                   "borderColor": "rgb(230, 236, 242)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 17,
+                "column": 2,
+                "name": "container_2",
+                "row": 64,
+                "rowspan": 19,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(225, 244, 251)",
+                  "borderEdges": [],
+                  "borderRadius": 8
+                }
+              },
+              {
+                "colspan": 12,
+                "column": 3,
+                "name": "link_2",
+                "row": 65,
+                "rowspan": 6,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "container_8",
+                "row": 83,
+                "rowspan": 5,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(8, 30, 41, 0.75)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 12,
+                "column": 3,
+                "name": "text_2",
+                "row": 71,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 15,
+                "name": "image_2",
+                "row": 65,
+                "rowspan": 5,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 15,
+                "name": "image_9",
+                "row": 72,
+                "rowspan": 11,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
                   "borderEdges": [],
                   "borderRadius": 0,
                   "borderWidth": 1
@@ -298,8 +375,8 @@
           "fit": "fitwidth",
           "gutterColor": "rgb(8, 30, 41)",
           "image": {
-            "name": "bgpng1",
-            "namespace": "puttupu"
+            "name": "bgpng13",
+            "namespace": "simha"
           }
         },
         "version": 1
@@ -315,14 +392,26 @@
       "borderWidth": 1
     },
     "widgets": {
+      "image_9": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "fit": "fitheight",
+          "image": {
+            "name": "astro_hard_hatpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
       "image_8": {
         "parameters": {
           "alignmentX": "center",
           "alignmentY": "bottom",
           "fit": "fitheight",
           "image": {
-            "name": "astro_clipboardpng1",
-            "namespace": "puttupu"
+            "name": "astro_clipboardpng13",
+            "namespace": "simha"
           }
         },
         "type": "image"
@@ -330,7 +419,7 @@
       "text_18": {
         "parameters": {
           "fontSize": 14,
-          "text": "Learn to choose the best chart for visualizing your data.",
+          "text": "Learn to choose the best chart for visualizing your data",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -342,8 +431,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconchartpng1",
-            "namespace": "puttupu"
+            "name": "iconchartpng13",
+            "namespace": "simha"
           }
         },
         "type": "image"
@@ -354,8 +443,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "arrowrpng1",
-            "namespace": "puttupu"
+            "name": "arrowrpng13",
+            "namespace": "simha"
           }
         },
         "type": "image"
@@ -366,8 +455,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "iconrefreshinversepng1",
-            "namespace": "puttupu"
+            "name": "iconrefreshinversepng13",
+            "namespace": "simha"
           }
         },
         "type": "image"
@@ -387,8 +476,8 @@
           "alignmentY": "bottom",
           "fit": "fitheight",
           "image": {
-            "name": "astro_hmmmpng1",
-            "namespace": "puttupu"
+            "name": "astro_hmmmpng13",
+            "namespace": "simha"
           }
         },
         "type": "image"
@@ -410,8 +499,8 @@
       "link_11": {
         "parameters": {
           "destinationLink": {
-            "name": "Charts_Introduction",
-            "namespace": "puttupu"
+            "name": "Charts_Introduction15253306330156",
+            "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 24,
@@ -422,10 +511,25 @@
         },
         "type": "link"
       },
+      "link_2": {
+        "parameters": {
+          "destinationLink": {
+            "name": "KA_SAQL_Introduction",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 24,
+          "includeState": false,
+          "text": "Ask Advanced Questions with SAQL",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
       "text_20": {
         "parameters": {
           "fontSize": 14,
-          "text": "Tie a widget&#39;s data or design to the selection or results of another.",
+          "text": "Tie a widget&#39;s data or design to the selection or results of another",
           "textAlignment": "left",
           "textColor": "rgb(22, 50, 92)"
         },
@@ -434,8 +538,8 @@
       "link_9": {
         "parameters": {
           "destinationLink": {
-            "name": "Dynamic_Apps_Introduction",
-            "namespace": "puttupu"
+            "name": "Dynamic_Apps_Introduction15253301120091525415081836",
+            "namespace": "simha"
           },
           "destinationType": "dashboard",
           "fontSize": 24,
@@ -450,10 +554,22 @@
         "parameters": {
           "alignmentX": "center",
           "alignmentY": "center",
-          "fit": "original",
+          "fit": "fitwidth",
           "image": {
-            "name": "titlepng1",
-            "namespace": "puttupu"
+            "name": "titlepng13",
+            "namespace": "simha"
+          }
+        },
+        "type": "container"
+      },
+      "container_2": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "bottom",
+          "fit": "fitwidth",
+          "image": {
+            "name": "bgfootersnowjpg",
+            "namespace": "simha"
           }
         },
         "type": "container"
@@ -472,8 +588,8 @@
           "alignmentY": "bottom",
           "fit": "fitwidth",
           "image": {
-            "name": "bgfooterjpg1",
-            "namespace": "puttupu"
+            "name": "bgfooterjpg13",
+            "namespace": "simha"
           }
         },
         "type": "container"
@@ -484,11 +600,20 @@
           "alignmentY": "bottom",
           "fit": "fitwidth",
           "image": {
-            "name": "bgfooterdesertjpg1",
-            "namespace": "puttupu"
+            "name": "bgfooterdesertjpg13",
+            "namespace": "simha"
           }
         },
         "type": "container"
+      },
+      "text_2": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "Take your charts to the next level with advanced queries",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
       },
       "image_3": {
         "parameters": {
@@ -496,8 +621,8 @@
           "alignmentY": "center",
           "fit": "original",
           "image": {
-            "name": "arrowlpng1",
-            "namespace": "puttupu"
+            "name": "arrowlpng13",
+            "namespace": "simha"
           }
         },
         "type": "image"
@@ -509,9 +634,21 @@
           "fit": "original"
         },
         "type": "container"
+      },
+      "image_2": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconquerypng",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
       }
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v41.0/wave/dashboards/0FK7F00000077DGWAY"
+  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2QWAW"
 }
