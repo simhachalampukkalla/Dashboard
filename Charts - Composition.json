@@ -74,7 +74,7 @@
                 "column": 0,
                 "name": "text_1",
                 "row": 3,
-                "rowspan": 4,
+                "rowspan": 5,
                 "widgetStyle": {
                   "backgroundColor": "rgba(255, 255, 255, 0)",
                   "borderColor": "#E6ECF2",
